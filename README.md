@@ -197,6 +197,6 @@ We welcome contributions! Please follow these steps:
 - Performance optimization
 - Bug fixes
 - Feature additions
--chatbot capabilities
+- chatbot capabilities
 
 
