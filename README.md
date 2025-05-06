@@ -1,6 +1,6 @@
 # RimalAI - Saudi Culture Assistant 🐪
 
-RimalAI is an innovative AI-powered application that serves as a comprehensive guide to Saudi Arabian culture, landmarks, and heritage. It combines advanced AI technologies with interactive features to provide an engaging cultural experience.
+RimalAI is an innovative AI-powered application that serves as a comprehensive guide to Saudi Arabian culture, landmarks, and heritage.
 
 ## 🌟 Features
 
@@ -8,33 +8,26 @@ RimalAI is an innovative AI-powered application that serves as a comprehensive g
 - Real-time voice input processing
 - Automatic language detection (Arabic/English)
 - Text-to-speech response generation
-- Natural conversation flow
 
 ### 2. Text-Based Interaction
 - Natural language query processing
 - Context-aware responses
-- Source attribution
 - Rich media integration
 
 ### 3. Location Services
 - Interactive map visualization
-- Detailed location information panels
-- Climate and notable sites information
+- Detailed location information
 - Satellite view and measurement tools
-- Custom landmark markers
 
 ### 4. Poetry Features
 - Arabic poem generation
-- Poem search functionality
-- Bilingual support (Arabic with English translations)
+- Bilingual support (Arabic/English)
 - Image generation for poems
-- Historical poem database
 
 ## 📋 Prerequisites
 
-Before you begin, ensure you have the following:
-- Python 3.8 or higher
-- pip (Python package installer)
+- Python 3.8+
+- pip
 - Git
 - OpenAI API key
 - Mapbox API key
@@ -90,6 +83,7 @@ RimalAI/
 ├── .env                  # Environment variables
 ├── style.css            # Custom styling
 ├── Rimal_AI_dataset.json # Cultural and landmark data
+├── AI_Rimal_Lastmain.ipynb # Experiments & evaluations
 ├── arabic_poems_dataset.json # Poetry database
 └── README.md            # Project documentation
 ```
@@ -123,7 +117,6 @@ RimalAI/
 ```bash
 streamlit run app.py
 ```
-The application will be available at `http://localhost:8501`
 
 ### 2. Voice Interaction
 1. Click the "🎤 Start Recording" button
@@ -147,6 +140,11 @@ The application will be available at `http://localhost:8501`
 2. Click "📍 Find Location"
 3. Explore the interactive map
 4. View detailed information in the sidebar
+
+## Project Documentation
+1.Final Report: https://docs.google.com/document/d/1H3poO-x5R95OX4eIgNMHisZIbrbhAnOICd6I5mXzzuI/edit?usp=sharing
+2.Project Presentation: https://www.canva.com/design/DAGmkTc4CWc/z2DzYUSV1_ppXePkEfnFFw/view?utm_content=DAGmkTc4CWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a718a4ad4
+3.Demo Video (included in Presentation)
 
 ## 🔧 Configuration Options
 
