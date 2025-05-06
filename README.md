@@ -78,38 +78,15 @@ python -c "from dotenv import load_dotenv; load_dotenv(); import os; print('Open
 
 ```
 RimalAI/
-├── app.py                 # Main application file
+├── app.py                 # Streamlit interface implementation
 ├── requirements.txt       # Python dependencies
 ├── .env                  # Environment variables
 ├── style.css            # Custom styling
 ├── Rimal_AI_dataset.json # Cultural and landmark data
-├── AI_Rimal_Lastmain.ipynb # Experiments & evaluations
+├── AI_Rimal_Lastmain.ipynb # Main application logic(Experiments & evaluations)
 ├── arabic_poems_dataset.json # Poetry database
 └── README.md            # Project documentation
 ```
-
-### Key Files Description
-
-1. **app.py**
-   - Main application logic
-   - Streamlit interface implementation
-   - AI agent configuration
-   - Location and poetry processing
-
-2. **Rimal_AI_dataset.json**
-   - Contains information about Saudi landmarks
-   - Includes coordinates, descriptions, and media
-   - Structured data for location search
-
-3. **arabic_poems_dataset.json**
-   - Collection of Arabic poems
-   - Includes translations and metadata
-   - Used for poem search and generation
-
-4. **style.css**
-   - Custom styling for the Streamlit interface
-   - Responsive design elements
-   - Theme customization
 
 ## 🎮 How to Use
 
@@ -143,7 +120,9 @@ streamlit run app.py
 
 ## Project Documentation
 1.Final Report: https://docs.google.com/document/d/1H3poO-x5R95OX4eIgNMHisZIbrbhAnOICd6I5mXzzuI/edit?usp=sharing
+
 2.Project Presentation: https://www.canva.com/design/DAGmkTc4CWc/z2DzYUSV1_ppXePkEfnFFw/view?utm_content=DAGmkTc4CWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a718a4ad4
+
 3.Demo Video (included in Presentation)
 
 ## 🔧 Configuration Options
