@@ -1,0 +1,544 @@
+
+   [
+    {
+        "title": "لامية العرب",
+        "poet": "الشنفرى",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "أقيموا بني أمي، صدورَ مطيكم ... فإني إلى قومٍ سواكم لأميلُ",
+        "translation": "O sons of my mother, guide your mounts' chests aright, for I incline to a people other than you."
+    },
+    {
+        "title": "نهج البردة",
+        "poet": "أحمد شوقي",
+        "era": "حديث",
+        "region": "مصر",
+        "category": "مدح",
+        "text": "ريمٌ على القاعِ بين البانِ والعلمِ ... أحل سفك دمي في الأشهر الحرمِ",
+        "translation": "A gazelle on the plain between the branches and the hill, made shedding my blood lawful in sacred months."
+    },
+    {
+        "title": "إذا المرءُ لم يدنس",
+        "poet": "سمية بن خالد الفزاري",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "إذا المرءُ لم يدنسْ من اللؤمِ عرضه ... فكلُّ رداءٍ يرتديه جميلُ",
+        "translation": "If a man’s honor is unstained by disgrace, then every garment he wears is beautiful."
+    },
+    {
+        "title": "قفا نبكِ",
+        "poet": "امرؤ القيس",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "رثاء",
+        "text": "قفا نبكِ من ذكرى حبيبٍ ومنزلِ ... بسِقطِ اللوى بين الدخولِ فحوملِ",
+        "translation": "Stop, let us weep for the memory of a beloved and a dwelling, at the edge of the sandy desert between Dukhool and Hawmal."
+    },
+    {
+        "title": "لا تسقني ماء الحياة",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "لا تسقني ماءَ الحياةِ بذلةٍ ... بل فاسقني بالعزِ كأسَ الحنظلِ",
+        "translation": "Do not give me the water of life in humiliation; rather, let me drink the cup of colocynth with honor."
+    },
+    {
+        "title": "ألا كل شيء ما خلا الله باطل",
+        "poet": "لبيد بن ربيعة",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "حكمة",
+        "text": "ألا كل شيء ما خلا الله باطل ... وكل نعيم لا محالة زائل",
+        "translation": "Lo, everything but God is vanity, and every bliss is inevitably fleeting."
+    },
+    {
+        "title": "يا من يرى مد البعوض جناحها",
+        "poet": "ابن الوردي",
+        "era": "مملوكي",
+        "region": "الشام",
+        "category": "زهد",
+        "text": "يا من يرى مد البعوض جناحها ... في ظلمة الليل البهيم الأليل",
+        "translation": "O You who sees the stretch of a mosquito's wing in the pitch-black night."
+    },
+    {
+        "title": "دع الأيام تفعل ما تشاء",
+        "poet": "الإمام الشافعي",
+        "era": "عباسي",
+        "region": "الحجاز",
+        "category": "حكمة",
+        "text": "دع الأيام تفعل ما تشاء ... وطب نفسًا إذا حكم القضاء",
+        "translation": "Let the days do as they please, and be content when fate decrees."
+    },
+    {
+        "title": "إذا غامرتَ في شرفٍ مروم",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "فخر",
+        "text": "إذا غامرتَ في شرفٍ مروم ... فلا تقنعْ بما دونَ النجومِ",
+        "translation": "If you venture in pursuit of honor, be not content with anything less than the stars."
+    },
+    {
+        "title": "كم تشتكي",
+        "poet": "إيليا أبو ماضي",
+        "era": "حديث",
+        "region": "لبنان",
+        "category": "تفاؤل",
+        "text": "كم تشتكي وتقول إنك معدم ... والأرض ملكك والسماء والأنجم",
+        "translation": "How much you complain and say you are destitute, yet the earth is yours, and the sky and the stars."
+    },
+    {
+        "title": "بانت سعاد",
+        "poet": "كعب بن زهير",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "مدح",
+        "text": "بانت سعاد فقلبي اليوم متبول ... متيم إثرها لم يفد مكبول",
+        "translation": "Suad has departed, and my heart today is distraught, madly in love and shackled without cure."
+    },
+    {
+        "title": "قل للذي بصروف الدهر عيرنا",
+        "poet": "الفرزدق",
+        "era": "أموي",
+        "region": "العراق",
+        "category": "هجاء",
+        "text": "قل للذي بصروف الدهر عيرنا ... هل عاند الدهر إلا من له خطر",
+        "translation": "Say to the one who mocks us with fate's turns, has fate opposed any but those of worth?"
+    },
+    {
+        "title": "ولقد ذكرتك والرماح نواهل",
+        "poet": "عنترة بن شداد",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "ولقد ذكرتك والرماح نواهلٌ ... مني وبيض الهند تقطر من دمي",
+        "translation": "I remembered you even as the spears drank from me, and the Indian blades dripped with my blood."
+    },
+    {
+        "title": "ليت هندا أنجزتنا ما تعد",
+        "poet": "الراعي النميري",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "هجاء",
+        "text": "ليت هندا أنجزتنا ما تعد ... وشفت أنفسنا مما نجد",
+        "translation": "Would that Hind fulfilled what she promised us and soothed the souls burning with desire."
+    },
+    {
+        "title": "ذهب الشباب فما له من عودة",
+        "poet": "أبو العتاهية",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "زهد",
+        "text": "ذهب الشباب فما له من عودة ... وأتى المشيب فأين منه المهرب",
+        "translation": "Youth has gone, never to return; and old age has come—where is the escape from it?"
+    },
+    {
+        "title": "يا نفس لا تفرحي بالعيش",
+        "poet": "أبو العتاهية",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "زهد",
+        "text": "يا نفس لا تفرحي بالعيش ذا الزمن ... ولا تحزني فيه من حدث المحن",
+        "translation": "O soul, do not rejoice in this life's time, nor grieve over the events of its trials."
+    },
+    {
+        "title": "دع عنك لومي فإن اللوم إغراء",
+        "poet": "الأحوص الأنصاري",
+        "era": "أموي",
+        "region": "المدينة",
+        "category": "غزل",
+        "text": "دع عنك لومي فإن اللوم إغراء ... وداوني بالتي كانت هي الداء",
+        "translation": "Spare me your blame, for blame is seduction; and heal me with what once was my affliction."
+    },
+    {
+        "title": "لو كنت أعلم أن الحب يقتلني",
+        "poet": "جميل بثينة",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "لو كنت أعلم أن الحب يقتلني ... أعددت لي قبل أن أهوى مقابرًا",
+        "translation": "Had I known love would slay me, I would have prepared my grave before falling in love."
+    },
+    {
+        "title": "إن المكارم أخلاق مطهرة",
+        "poet": "السموأل بن عادياء",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "إن المكارم أخلاق مطهرة ... فالدين أولها والعقل ثانيها",
+        "translation": "Virtues are pure morals; religion comes first, and reason follows."
+    },
+    {
+        "title": "حكم المنية في البرية جار",
+        "poet": "أبو العلاء المعري",
+        "era": "عباسي",
+        "region": "الشام",
+        "category": "رثاء",
+        "text": "حكم المنية في البرية جار ... ما هذه الدنيا بدار قرار",
+        "translation": "Death’s decree rules all mankind; this world is no abode of permanence."
+    },
+    {
+        "title": "إذا غامرتَ في شرفٍ مروم",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "فخر",
+        "text": "إذا غامرتَ في شرفٍ مروم ... فلا تقنعْ بما دونَ النجومِ",
+        "translation": "If you venture in pursuit of noble honor, settle not for less than the stars."
+    },
+    {
+        "title": "أما والذي أبكى وأضحك والذي",
+        "poet": "ابن زيدون",
+        "era": "أندلسي",
+        "region": "الأندلس",
+        "category": "غزل",
+        "text": "أما والذي أبكى وأضحك والذي ... أمات وأحيا والذي أمره الأمرُ",
+        "translation": "By Him who causes tears and laughter, who gives death and life, whose command is supreme."
+    },
+    {
+        "title": "إذا كنتَ في كل الأمور معاتبًا",
+        "poet": "زهير بن أبي سلمى",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "حكمة",
+        "text": "إذا كنتَ في كل الأمور معاتبًا ... صديقَك لم تلقَ الذي لا تعاتبه",
+        "translation": "If you reproach your friend in every matter, you shall find none whom you do not blame."
+    },
+    {
+        "title": "سقى الله أطلالاً بأُمِّ القرى سُقيا",
+        "poet": "جرير",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "رثاء",
+        "text": "سقى الله أطلالاً بأم القرى سقيا ... وأرواحَ قومٍ في المقابرِ رُمسيا",
+        "translation": "May God water the ruins in Umm Al-Qura, and souls of those buried in the graves."
+    },
+    {
+        "title": "يا من يعز علينا أن نفارقهم",
+        "poet": "البهاء زهير",
+        "era": "أيوبي",
+        "region": "مصر",
+        "category": "رثاء",
+        "text": "يا من يعز علينا أن نفارقهم ... وجداننا كل شيء بعدكم عدمُ",
+        "translation": "O you whose parting pains us dearly, everything without you feels like nothing."
+    },
+    {
+        "title": "تعيرنا أن قليل عديدنا",
+        "poet": "عمرو بن كلثوم",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "تعيرنا أن قليل عديدنا ... فقلت لها إن الكرام قليلُ",
+        "translation": "You reproach us for being few in number, but I said to her: the noble are always few."
+    },
+    {
+        "title": "لا خيلَ عندك تهديها ولا مالُ",
+        "poet": "السموأل بن عادياء",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "لا خيلَ عندك تهديها ولا مالُ ... فليسعدِ النطقُ إن لم تسعدِ الحالُ",
+        "translation": "You have no horses or wealth to offer; let your words bring joy if your means do not."
+    },
+    {
+        "title": "وما المالُ والأهلون إلا وديعةٌ",
+        "poet": "لبيد بن ربيعة",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "زهد",
+        "text": "وما المالُ والأهلون إلا وديعةٌ ... ولا بدّ يومًا أن تُرَدَّ الودائعُ",
+        "translation": "Wealth and kin are but a trust; and one day, all trusts must be returned."
+    },
+    {
+        "title": "وللدهرِ ألوانٌ تُغيرُ لونَهُ",
+        "poet": "ابن الرومي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "وللدهرِ ألوانٌ تُغيرُ لونَهُ ... ومن عادةِ الأيامِ تبديلُ حالِها",
+        "translation": "Time has colors that change its hue, and days are known for altering their states."
+    },
+    {
+        "title": "ألا ليتَ الشبابَ يعودُ يومًا",
+        "poet": "أبو العتاهية",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "زهد",
+        "text": "ألا ليتَ الشبابَ يعودُ يومًا ... فأُخبرهُ بما فعلَ المشيبُ",
+        "translation": "Oh, if only youth could return one day, so I could tell it what old age has done."
+    },
+    {
+        "title": "إذا المرءُ لم يدنس من اللؤم عرضه",
+        "poet": "سمية بن رياح",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "إذا المرءُ لم يدنس من اللؤم عرضه ... فكل رداءٍ يرتديه جميلُ",
+        "translation": "If a man's honor is unstained by disgrace, then every garment he wears is fine."
+    },
+    {
+        "title": "قفَا نبكِ من ذكرى حبيبٍ ومنزلِ",
+        "poet": "امرؤ القيس",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "قفا نبكِ من ذكرى حبيبٍ ومنزلِ ... بسِقطِ اللوى بين الدخولِ فحوملِ",
+        "translation": "Stop, let us weep over the memory of a beloved and a dwelling at the remains of Al-Liwa between Dukhul and Hawmal."
+    },
+    {
+        "title": "فلا واللهِ ما في العيشِ خيرٌ",
+        "poet": "عنترة بن شداد",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "فلا واللهِ ما في العيشِ خيرٌ ... ولا الدنيا إذا ذهبَ الحياءُ",
+        "translation": "By God, there is no good in life, nor in the world, if modesty departs."
+    },
+    {
+        "title": "ومن لم يذد عن حوضِه بسلاحِه",
+        "poet": "زهير بن أبي سلمى",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "حكمة",
+        "text": "ومن لم يذد عن حوضِه بسلاحِه ... يُهدَّم ومن لا يظلمِ الناسَ يُظلَمِ",
+        "translation": "Whoever does not defend his domain with his weapon will see it destroyed, and he who does not oppress will be oppressed."
+    },
+    {
+        "title": "إن الغنى عن القضاءِ كافِ",
+        "poet": "الفرزدق",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "إن الغنى عن القضاءِ كافِ ... فلا تكثرنَّ من المنى يا فاني",
+        "translation": "Wealth spares one from dependence on fate, so do not overindulge in hopes, O mortal one."
+    },
+    {
+        "title": "لعمركَ ما ضاقتْ بلادٌ بأهلِها",
+        "poet": "الطغرائي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "لعمركَ ما ضاقتْ بلادٌ بأهلِها ... ولكنَّ أخلاقَ الرجالِ تضيقُ",
+        "translation": "By your life, lands have never grown too narrow for their people, but men's morals have constricted."
+    },
+    {
+        "title": "يا قلبُ صبرًا على ما قد منيتَ به",
+        "poet": "كثير عزة",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "يا قلبُ صبرًا على ما قد منيتَ به ... فكلُّ أمرٍ له وقتٌ وتدبيرُ",
+        "translation": "O heart, be patient with what you have been afflicted by; everything has its time and design."
+    },
+    {
+        "title": "ولو أني استطعتُ لعدتُ دهري",
+        "poet": "بشار بن برد",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "زهد",
+        "text": "ولو أني استطعتُ لعدتُ دهري ... شبابًا لا يملُّ ولا يبورُ",
+        "translation": "If I could, I would return my lifetime to youth that never tires or fades."
+    },
+    {
+        "title": "كفى بكَ داءً أن ترى الموتَ شافيًا",
+        "poet": "أبو الطيب المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "كفى بكَ داءً أن ترى الموتَ شافيًا ... وحسبُ المنايا أن يكنّ أمانيا",
+        "translation": "It is affliction enough that you see death as a cure, and disaster enough that death becomes a wish."
+    },
+    {
+        "title": "ألا يا صبا نجدٍ متى هجتَ من نجدِ",
+        "poet": "قيس بن الملوح",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "ألا يا صبا نجدٍ متى هجتَ من نجدِ ... لقد زادني مسراكَ وجدًا على وجدِ",
+        "translation": "O morning breeze of Najd, when did you blow from Najd? Your passage has only deepened my longing."
+    },
+    {
+        "title": "دعِ الأيامَ تفعلُ ما تشاءُ",
+        "poet": "الإمام الشافعي",
+        "era": "عباسي",
+        "region": "الحجاز",
+        "category": "حكمة",
+        "text": "دعِ الأيامَ تفعلُ ما تشاءُ ... وطبْ نفسًا إذا حكمَ القضاءُ",
+        "translation": "Let the days do as they will, and be content when fate decrees."
+    },
+    {
+        "title": "إذا غامرتَ في شرفٍ مرومِ",
+        "poet": "أبو الطيب المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "فخر",
+        "text": "إذا غامرتَ في شرفٍ مرومِ ... فلا تقنعْ بما دونَ النجومِ",
+        "translation": "If you venture in pursuit of noble glory, be not content with less than the stars."
+    },
+    {
+        "title": "ليس الجمالُ بأثوابٍ تُزيّنُنا",
+        "poet": "البهاء زهير",
+        "era": "أيوبي",
+        "region": "مصر",
+        "category": "حكمة",
+        "text": "ليس الجمالُ بأثوابٍ تُزيّنُنا ... إن الجمالَ جمالُ العلمِ والأدبِ",
+        "translation": "Beauty is not in garments that adorn us; beauty is in knowledge and manners."
+    },
+    {
+        "title": "أحبُّكِ حبّينِ حبَّ الهوى",
+        "poet": "رابعة العدوية",
+        "era": "عباسي",
+        "region": "البصرة",
+        "category": "صوفي",
+        "text": "أحبُّكِ حبّينِ حبَّ الهوى ... وحبًّا لأنكِ أهلٌ لذاكا",
+        "translation": "I love You with two loves: a love of longing and a love because You are worthy of that love."
+    },
+    {
+        "title": "ما كلُّ ما يتمنّى المرءُ يدركُه",
+        "poet": "الطموح الكندي",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "حكمة",
+        "text": "ما كلُّ ما يتمنّى المرءُ يدركُه ... تجري الرياحُ بما لا تشتهي السفنُ",
+        "translation": "Not everything a man desires he attains; the winds blow contrary to what the ships wish."
+    },
+    {
+        "title": "يا سائلي عنْ مودّتي",
+        "poet": "ابن الفارض",
+        "era": "أيوبى",
+        "region": "مصر",
+        "category": "صوفي",
+        "text": "يا سائلي عنْ مودّتي ... إنّ مودّتيَ العَجبْ",
+        "translation": "O you who ask about my love, indeed, my love is wondrous."
+    },
+    {
+        "title": "كلّما أنبتَ الزمانُ قناةً",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "فخر",
+        "text": "كلّما أنبتَ الزمانُ قناةً ... ركّبَ المرءُ في القناةِ سنانَا",
+        "translation": "Whenever time brings forth a new spear, man fits it with a sharp tip."
+    },
+    {
+        "title": "لولا المشقةُ سادَ الناسُ كلُّهمُ",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "لولا المشقةُ سادَ الناسُ كلُّهمُ ... الجودُ يفقرُ والإقدامُ قتالُ",
+        "translation": "Were it not for hardship, all people would be noble; generosity makes one poor, and courage leads to death."
+    },
+    {
+        "title": "فإن تَكُ أُسودًا فكُنْ من خشيتِهِ",
+        "poet": "الشريف الرضي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "زهد",
+        "text": "فإن تَكُ أُسودًا فكُنْ من خشيتِهِ ... أذلَّ من القِطِّ في الأجحارِ",
+        "translation": "If you are lions, then from His fear be as humble as cats in their holes."
+    },
+    {
+        "title": "أراكَ عصيَّ الدمعِ شيمتُكَ الصبرُ",
+        "poet": "أبو فراس الحمداني",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "رثاء",
+        "text": "أراكَ عصيَّ الدمعِ شيمتُكَ الصبرُ ... أما للهوى نهيٌ عليكَ ولا أمرُ",
+        "translation": "I see you resisting tears, your nature is patience — is there no command or prohibition upon you in love?"
+    },
+    {
+        "title": "أراكَ على الحُسنِ أضوأَ من بدرٍ",
+        "poet": "ابن زيدون",
+        "era": "أندلسي",
+        "region": "الأندلس",
+        "category": "غزل",
+        "text": "أراكَ على الحُسنِ أضوأَ من بدرٍ ... وأنتَ النعيمُ الذي ليس فيهِ شَغَبُ",
+        "translation": "I see you, more radiant than the full moon, and you are the bliss that holds no discord."
+    },
+    {
+        "title": "إنَّ الغريبَ لا يأمنُ الزمنَ",
+        "poet": "أبو العتاهية",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "حكمة",
+        "text": "إنَّ الغريبَ لا يأمنُ الزمنَ ... وإنْ كانتْ دروبُهُ سَلامًا",
+        "translation": "The stranger is never safe from time, even if its paths seem peaceful."
+    },
+    {
+        "title": "يا طيبَ ذا الكأسِ في الشّوقِ",
+        "poet": "المتنبي",
+        "era": "عباسي",
+        "region": "العراق",
+        "category": "غزل",
+        "text": "يا طيبَ ذا الكأسِ في الشّوقِ ... إنِّي أرى أنَ الشّوقَ أقسى",
+        "translation": "How sweet is this cup in longing, for I see that longing is the harshest of things."
+    },
+    {
+        "title": "أعزُّ من ملكٍ وأرخصُ من ترابٍ",
+        "poet": "حسان بن ثابت",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "فخر",
+        "text": "أعزُّ من ملكٍ وأرخصُ من ترابٍ ... وأنتَ التي ترفعُ كلَّ المجدِ",
+        "translation": "More noble than kings and cheaper than dust, and you, the one who elevates every glory."
+    },
+    {
+        "title": "في ليلِ الهَوى عيونٌ تُضيءُ",
+        "poet": "المجنون",
+        "era": "أموي",
+        "region": "الجزيرة العربية",
+        "category": "غزل",
+        "text": "في ليلِ الهَوى عيونٌ تُضيءُ ... لا شمسٌ تُضيءُ ولا قمرٌ",
+        "translation": "In the night of love, eyes light up, not the sun or the moon."
+    },
+    {
+        "title": "قلبي على نَارٍ من عيونِها",
+        "poet": "ابن الفارض",
+        "era": "مملوكي",
+        "region": "مصر",
+        "category": "صوفي",
+        "text": "قلبي على نَارٍ من عيونِها ... ولولا لهيبُها لما كان في الكبدِ هوى",
+        "translation": "My heart is on fire from her eyes, and were it not for their flame, there would be no longing in my soul."
+    },
+    {
+        "title": "قل لي كيفَ أنسى والدمعُ سائلٌ",
+        "poet": "الخنساء",
+        "era": "جاهلي",
+        "region": "الجزيرة العربية",
+        "category": "رثاء",
+        "text": "قل لي كيفَ أنسى والدمعُ سائلٌ ... وكلُّ الحُبِّ كانَ لديكَ أخضرُ",
+        "translation": "Tell me how to forget, when tears flow, and all the love was green in your heart."
+    },
+    {
+        "title": "تأملْتُ فيكَ السّحرَ في عيونِكَ",
+        "poet": "أحمد شوقي",
+        "era": "حديث",
+        "region": "مصر",
+        "category": "غزل",
+        "text": "تأملْتُ فيكَ السّحرَ في عيونِكَ ... كيف أراهُ بغيرِ هذه المسافةِ",
+        "translation": "I gazed at the magic in your eyes, how do I see it without this distance?"
+    },
+    {
+        "title": "ما أطيبَ الحُبَّ في عيونٍ بَسَّامَةٍ",
+        "poet": "ابن زيدون",
+        "era": "أندلسي",
+        "region": "الأندلس",
+        "category": "غزل",
+        "text": "ما أطيبَ الحُبَّ في عيونٍ بَسَّامَةٍ ... كم ألذَّ الحبّ في عيونٍ مليئةٍ بالشغفِ",
+        "translation": "How sweet is love in smiling eyes, and how delightful love is in eyes full of passion."
+    },
+    {
+        "title": "كلما تذكرتُ الوصلَ واللقاءَ",
+        "poet": "نزار قباني",
+        "era": "حديث",
+        "region": "سوريا",
+        "category": "غزل",
+        "text": "كلما تذكرتُ الوصلَ واللقاءَ ... تبتسمُ الشفتانِ بلا قرارٍ",
+        "translation": "Whenever I remember our union and meeting, my lips smile without control."
+    }
+]
+

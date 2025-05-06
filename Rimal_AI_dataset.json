@@ -1,0 +1,2154 @@
+[
+  {
+    "id": 1,
+    "type": "landmark",
+    "name": "Al-Ula",
+    "description": "Al-Ula is an ancient city located in northwestern Saudi Arabia, famous for its sandstone mountains, historic tombs, and rich Nabatean heritage. It has been a crossroads for ancient civilizations and a center of trade and culture. The city is home to significant archaeological sites like Mada'in Saleh, and its unique rock formations make it a prime location for tourists and historians alike.",
+    "vision2030": "Al-Ula is a centerpiece of Saudi Arabia's Vision 2030, aiming to transform the city into a world-class tourism destination while preserving its archaeological and cultural heritage. The city is also committed to sustainable tourism practices, ensuring that its natural beauty and historical value are maintained for future generations.",
+    "coordinates": {
+      "latitude": 26.3631,
+      "longitude": 37.5525
+    },
+    "climate": {
+      "summer": "40-45°C",
+      "winter": "15-25°C",
+      "best_time_to_visit": [
+        "Winter (November - March)"
+      ]
+    },
+    "notable_sites": [
+      {
+        "name": "Mada'in Saleh",
+        "description": "A UNESCO World Heritage site, Mada'in Saleh is an ancient Nabatean city with elaborate rock-cut tombs. It is known for its striking architecture and archaeological significance."
+      },
+      {
+        "name": "Jabal Ikmah",
+        "description": "A historical mountain known for its inscriptions and petroglyphs, Jabal Ikmah is a treasure trove of ancient Arabian rock art and is considered one of the most important sites in Al-Ula."
+      },
+      {
+        "name": "Al-Ula Old Town",
+        "description": "The Old Town is a historical settlement featuring mud-brick houses, ancient markets, and old mosques, offering visitors a glimpse into the city's past."
+      }
+    ],
+    "activities": [
+      {
+        "type": "cultural",
+        "name": "Al-Ula Arts Festival",
+        "description": "An annual festival celebrating the region's art and culture, featuring performances, exhibitions, and workshops."
+      },
+      {
+        "type": "outdoor",
+        "name": "Desert Adventures",
+        "description": "Explore Al-Ula's vast desert landscape through camel rides, quad biking, and stargazing tours."
+      },
+      {
+        "type": "historical",
+        "name": "Tomb Exploration",
+        "description": "Visit the historical tombs in Mada'in Saleh and other parts of Al-Ula to learn about the region's ancient civilizations."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "project": "Al-Ula Development Project",
+        "description": "A long-term initiative spearheaded by the Royal Commission for Al-Ula (RCU), aimed at transforming Al-Ula into a world-class cultural and tourism destination while preserving its unique archaeological, historical, and natural heritage. The project places a strong emphasis on sustainability, ensuring that all developments and infrastructure are environmentally responsible and culturally sensitive.",
+        "goals": [
+          "Transform Al-Ula into a global tourism hub, attracting millions of visitors annually while maintaining its authenticity and heritage.",
+          "Develop infrastructure in line with eco-friendly principles, such as renewable energy, water conservation, and waste management systems.",
+          "Preserve and protect Al-Ula's historical sites, including UNESCO World Heritage locations, through conservation efforts and responsible tourism practices.",
+          "Create new opportunities for local communities by fostering sustainable employment, education, and training programs in various sectors such as hospitality, arts, and heritage management."
+        ],
+        "key_initiatives": [
+          {
+            "name": "Conservation and Restoration of Heritage Sites",
+            "description": "Restoring and preserving Al-Ula's historical landmarks, including Mada'in Saleh and the Old Town, using the latest preservation technologies. Efforts are being made to safeguard ancient rock art, tombs, and other significant archaeological sites."
+          },
+          {
+            "name": "Sustainable Tourism Infrastructure",
+            "description": "A sustainable tourism infrastructure plan includes green building designs, solar-powered facilities, and low-impact construction methods. The project also focuses on improving transportation links, such as electric vehicle networks and eco-friendly transportation options."
+          },
+          {
+            "name": "Eco-Tourism Development",
+            "description": "Development of eco-tourism activities, such as nature trails, wildlife conservation areas, and desert exploration experiences, offering visitors a sustainable way to enjoy Al-Ula's natural beauty while contributing to environmental preservation."
+          },
+          {
+            "name": "Community Engagement and Economic Empowerment",
+            "description": "Involving local communities by offering training and employment opportunities in tourism, heritage preservation, and green technologies. Supporting local artisans and businesses by promoting their work in the global tourism market."
+          }
+        ]
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "UNESCO",
+        "role": "Collaborating to ensure heritage sites in Al-Ula are preserved according to international standards, including expert guidance on site restoration and sustainable tourism."
+      },
+      {
+        "partner": "Saudi Arabian Tourism Authority",
+        "role": "Promotes Al-Ula as a major tourist destination, focusing on attracting international visitors while ensuring cultural heritage preservation."
+      },
+      {
+        "partner": "International Conservation Organizations",
+        "role": "Provide expertise in heritage conservation and ecological protection, ensuring developments adhere to global sustainability practices."
+      }
+    ],
+    "outcomes": [
+      "A world-class, sustainable tourism destination attracting millions annually while safeguarding cultural and natural heritage.",
+      "Job creation and economic growth for local communities in tourism, hospitality, and heritage management.",
+      "A model for sustainable development in the Middle East balancing economic growth with environmental and cultural preservation.",
+      "Increased global recognition of Al-Ula as a key heritage and tourism site."
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "estimated_completion": "2039",
+      "key_milestones": [
+        {
+          "year": 2023,
+          "event": "Opening of Al-Ula’s first sustainable tourism projects, including eco-friendly hotels and resorts."
+        },
+        {
+          "year": 2025,
+          "event": "Completion of major infrastructure projects, including a new airport and improved road networks."
+        },
+        {
+          "year": 2030,
+          "event": "Full restoration of key historical sites like Mada'in Saleh and the Al-Ula Old Town."
+        }
+      ]
+    },
+    "media": {
+      "images": [
+        "https://thesaudiboom.com/wp-content/uploads/2024/07/1-AlUla-Becomes-First-Middle-East-City-to-Receive-Destinations-International-Accreditation.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=u7cXaKYLyvs&t=315s"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "type": "city",
+    "name": "Neom",
+    "description": "Neom is a planned city in northwestern Saudi Arabia, designed to be a hub for technological innovation, sustainable living, and tourism. It combines advanced infrastructure with renewable energy, artificial intelligence, and environmental sustainability. Located along the Red Sea coast, Neom blends modernity with nature.",
+    "vision2030": "Neom is a flagship project of Saudi Arabia's Vision 2030, aimed at diversifying the economy, creating sustainable urban spaces, and positioning Saudi Arabia as a leader in innovation and technology.",
+    "coordinates": {
+      "latitude": 27.9893,
+      "longitude": 35.0094
+    },
+    "main_projects": [
+      {
+        "project_name": "The Line",
+        "description": "A revolutionary 170 km long city with no cars, roads, or emissions. It aims to create a futuristic urban environment connected by ultra-fast public transport, focusing on sustainability, smart living, and integration of technology with nature.",
+        "features": [
+          "Car-free city",
+          "High-speed trains for rapid transit",
+          "Powered by renewable energy",
+          "Connected communities within a 5-minute walk",
+          "AI and smart technologies for city management"
+        ],
+        "sustainability_focus": [
+          "Zero-emission urban living",
+          "Sustainable energy solutions (solar and wind)",
+          "Waste recycling and water conservation"
+        ],
+        "timeline": "Construction started in 2022, full completion targeted for 2030."
+      },
+      {
+        "project_name": "Oxagon",
+        "description": "The largest floating structure in the world, designed as an industrial and logistics hub focusing on sustainability and advanced technologies. It features facilities for manufacturing, energy production, and research.",
+        "features": [
+          "Largest floating structure globally",
+          "Advanced industries like hydrogen production and clean energy",
+          "Sustainable urban design with renewable energy integration",
+          "Research and development for green technologies"
+        ],
+        "sustainability_focus": [
+          "Powered entirely by renewable energy",
+          "Green hydrogen production",
+          "Sustainable industrial operations"
+        ],
+        "timeline": "Announced in 2021, construction expected 2023-2025."
+      },
+      {
+        "project_name": "Trojena",
+        "description": "A mountainous resort designed for sustainable tourism offering year-round activities including skiing, water sports, and hiking. It blends luxury, nature, and sustainability.",
+        "features": [
+          "Skiing and winter sports in the desert",
+          "Luxury hotels and accommodations",
+          "Year-round outdoor activities",
+          "Sustainable infrastructure and green energy solutions"
+        ],
+        "sustainability_focus": [
+          "Energy-efficient buildings",
+          "Solar-powered infrastructure",
+          "Conservation of natural resources and ecosystems"
+        ],
+        "timeline": "Expected to open in 2026."
+      }
+    ],
+    "tourist_destinations": [
+      {
+        "name": "Shushah Island",
+        "description": "A pristine island in the Red Sea, known for crystal-clear waters, coral reefs, and stunning beaches. Ideal for snorkeling, diving, and relaxing.",
+        "activities": [
+          "Snorkeling",
+          "Diving",
+          "Beach relaxation",
+          "Wildlife watching"
+        ]
+      },
+      {
+        "name": "Neom Bay",
+        "description": "A beautiful coastal area with luxurious resorts, waterfront dining, boating, and water sports. Perfect for experiencing the Red Sea's serene beauty.",
+        "activities": [
+          "Water sports",
+          "Boating",
+          "Fishing",
+          "Resort stays"
+        ]
+      }
+    ],
+    "climate": {
+      "description": "Coastal desert climate with mild winters and hot summers. The Red Sea location moderates summer heat, with pleasant winters and low humidity.",
+      "seasonal_variations": [
+        "Hot summers exceeding 40°C",
+        "Mild winters between 20°C and 30°C"
+      ]
+    },
+    "coastal_area": {
+      "description": "Neom's Red Sea coast offers pristine beaches, coral reefs, and marine life, perfect for water sports and eco-tourism.",
+      "features": [
+        "Pristine beaches",
+        "Coral reefs and marine biodiversity",
+        "Water sports and beach resorts"
+      ]
+    },
+    "media": {
+      "images": [
+        "https://cdn.ca.emap.com/wp-content/uploads/sites/9/2023/02/the-line-neom-saudi-arabia.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=z2Fy4e-ZUb8"
+      ],
+      "audio": []
+    }
+  },
+  {
+    "id": 3,
+    "type": "culture",
+    "name": "Bedouin Culture",
+    "description": "Bedouins are nomadic groups living primarily in desert and arid areas, relying on mobility to find water, pasture, and livelihood sources like trade and handicrafts. Their culture is shaped by harsh desert conditions, social cohesion, and rich oral traditions.",
+    "characteristics": {
+      "movement": "Mobility is central, moving between regions for water and grazing depending on rainfall and seasons.",
+      "transportation": "Camels are the main transport, valued for endurance and as food sources.",
+      "desert_calendar": "Based on rainfall and weather patterns to determine migration timing."
+    },
+    "economy": {
+      "livestock": "Camels, sheep, goats are primary livestock.",
+      "trade": "Trade caravans exchanged spices, dried fruits, fabrics."
+    },
+    "social_cohesion": {
+      "tribe": "Family and tribal ties provide protection and social structure.",
+      "justice_and_equality": "Decisions made in councils emphasizing fairness."
+    },
+    "social_system": {
+      "tribal_leadership": "Sheikhs lead tribes, respected for wisdom and guidance.",
+      "family_traditions": "Marriage within or between tribes to maintain ties."
+    },
+    "values_and_beliefs": {
+      "values": [
+        "Courage",
+        "Hospitality",
+        "Generosity"
+      ]
+    },
+    "language": {
+      "arabic": "Primary language with desert-related vocabulary.",
+      "bedouin_dialects": "Distinct dialects among tribes with unique expressions.",
+      "common_phrases": {
+        "ya_marhaban": "Warm greeting welcoming guests.",
+        "ala_rahb_was_sa": "Complete readiness to welcome guests.",
+        "hayyak_allah": "Greeting used among friends and family."
+      }
+    },
+    "clothing": {
+      "men": "White thobe made of cotton or light wool for cooling and protection.",
+      "women": "Black abayas for sun protection, lighter fabric in summer.",
+      "headwear": {
+        "agal": "Cord used to secure the head covering."
+      }
+    },
+    "media": {
+      "images": [
+        "https://cdn.arabsstock.com/uploads/images/176184/youth-camping-and-desert-session-preview-176184.jpg"
+      ],
+      "audio": [
+        "../RimalAI/BedouinCulture.mp3"
+      ],
+      "videos": []
+    }
+  },
+  {
+    "type": "landmark",
+    "name": "Diriyah",
+    "description": "Diriyah is the historic birthplace of the Saudi state, known for its mud-brick architecture and UNESCO World Heritage status.",
+    "vision2030": "The Diriyah Gate project is a key cultural initiative under Vision 2030, aiming to restore and develop Diriyah as a premier cultural and tourist destination.",
+    "coordinates": {
+      "latitude": 24.737,
+      "longitude": 46.576
+    },
+    "climate": {
+      "summer": "38-45°C",
+      "winter": "14-25°C",
+      "best_time_to_visit": [
+        "November - March"
+      ]
+    },
+    "notable_sites": [
+      {
+        "name": "At-Turaif District",
+        "description": "A historic mud-brick city and UNESCO World Heritage site."
+      }
+    ],
+    "activities": [
+      {
+        "type": "cultural",
+        "name": "Heritage Tours",
+        "description": "Guided tours exploring Diriyah's history and architecture."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "project": "Diriyah Gate Development",
+        "description": "Restoration of historic sites with eco-friendly building practices."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "UNESCO",
+        "role": "Heritage preservation advisory"
+      },
+      {
+        "partner": "Saudi Ministry of Culture",
+        "role": "Project oversight and promotion"
+      }
+    ],
+    "outcomes": [
+      "Increased cultural tourism",
+      "Preservation of Saudi heritage",
+      "Local job creation in tourism and arts"
+    ],
+    "timeline": {
+      "start_year": 2018,
+      "estimated_completion": "2030",
+      "key_milestones": [
+        {
+          "year": 2022,
+          "event": "Opening of restored palaces"
+        },
+        {
+          "year": 2025,
+          "event": "Completion of cultural centers and museums"
+        }
+      ]
+    },
+    "media": {
+      "images": [
+        "https://mma.prnewswire.com/media/1026778/Diriyah.jpg?p=publish"
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=uJxEvR6wXv8"
+      ],
+      "audio": []
+    },
+    "id": 4
+  },
+  {
+    "type": "culture",
+    "name": "Saudi Coffee (Gahwa)",
+    "description": "Saudi coffee is a traditional beverage symbolizing hospitality, often served with dates during social gatherings.",
+    "rituals": [
+      "Preparation with cardamom and saffron",
+      "Serving in small cups called 'finjan'",
+      "Ceremonial importance in welcoming guests"
+    ],
+    "vision2030": "Promoted as part of intangible cultural heritage to enhance cultural tourism.",
+    "values": [
+      "Hospitality",
+      "Generosity"
+    ],
+    "media": {
+      "images": [
+        "https://example.com/saudi_coffee.jpg"
+      ],
+      "audio": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=d7qROEWIJVY",
+        "https://www.youtube.com/watch?v=TT8EIySiUFs"
+      ]
+    },
+    "id": 5
+  },
+  
+  {
+    "id": 6,
+    "type": "city",
+    "name": "Abha",
+    "description": "Abha is the capital of the Asir Region, located in the southwestern highlands of Saudi Arabia. Known for its cool mountain climate, traditional architecture, and vibrant cultural scene, it serves as a key eco-tourism and cultural destination under Vision 2030.",
+    "vision2030": "As part of Vision 2030, Abha is being developed into a hub for eco-tourism, cultural preservation, and sustainable development through infrastructure modernization and nature-based tourism.",
+    "coordinates": {
+      "latitude": 18.2164,
+      "longitude": 42.5053
+    },
+    "climate": {
+      "summer": "20-30°C",
+      "winter": "5-15°C",
+      "best_time_to_visit": [
+        "May - September"
+      ]
+    },
+    "notable_sites": [
+      {
+        "name": "Asir National Park",
+        "description": "A protected area rich in biodiversity, featuring juniper forests, hiking trails, and panoramic viewpoints."
+      },
+      {
+        "name": "Shada Palace",
+        "description": "A historic palace showcasing Asiri architecture and now operating as a cultural museum."
+      },
+      {
+        "name": "Al-Soudah",
+        "description": "A high-altitude resort area known for its foggy peaks, cable cars, and hiking routes."
+      }
+    ],
+    "activities": [
+      {
+        "type": "outdoor",
+        "name": "Cable Car Rides",
+        "description": "Ride across mountains and valleys for breathtaking views of the Sarawat Range."
+      },
+      {
+        "type": "cultural",
+        "name": "Asiri Folklore Shows",
+        "description": "Traditional dance and music performances that highlight local customs."
+      },
+      {
+        "type": "nature",
+        "name": "Hiking & Camping",
+        "description": "Explore nature trails, forests, and mountaintops with eco-tourism guides."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "project": "Green Asir Program",
+        "description": "A regional afforestation and conservation initiative promoting biodiversity and sustainable tourism."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "Saudi Tourism Authority",
+        "role": "Destination promotion and infrastructure support"
+      },
+      {
+        "partner": "Asir Development Authority",
+        "role": "Sustainability and urban planning"
+      }
+    ],
+    "outcomes": [
+      "Boost in domestic and international eco-tourism",
+      "Preservation of traditional Asiri culture",
+      "Job creation in tourism and environmental services"
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "estimated_completion": "2030",
+      "key_milestones": [
+        {
+          "year": 2023,
+          "event": "Launch of Green Asir campaign"
+        },
+        {
+          "year": 2026,
+          "event": "Completion of eco-lodge projects and upgraded visitor facilities"
+        }
+      ]
+    },
+    "media": {
+      "images": [
+        "https://saudigazette.com.sa/uploads/images/2022/08/20/2003480.jpg",
+        "https://media.visitsaudi.com/content/dam/saudi-tourism/media-assets/landscapes/abha-al-soudah.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=FNEplcD3lIY"
+      ],
+      "audio": []
+    }
+  },
+  
+  {
+    "id": 7,
+    "type": "poetry",
+    "name": "Al-Mawtashil",
+    "description": "Al-Mawtashil is a traditional form of Bedouin oral poetry known for its lyrical themes of love, exile, longing, and vivid desert imagery. It embodies the nomadic spirit of ancient Arabia and is passed down through generations in poetic recitations.",
+    "vision2030": "As part of Vision 2030’s cultural revitalization goals, Al-Mawtashil is being preserved through national documentation projects, digital archives, and community engagement to promote Saudi oral traditions and identity.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [
+      {
+        "name": "Najd Region",
+        "description": "Historically associated with the emergence of Bedouin poetic traditions like Al-Mawtashil."
+      }
+    ],
+    "activities": [
+      {
+        "type": "cultural",
+        "name": "Poetry Nights",
+        "description": "Live recitations and storytelling events celebrating Al-Mawtashil and other oral traditions."
+      },
+      {
+        "type": "educational",
+        "name": "Workshops on Oral Poetry",
+        "description": "Sessions teaching poetic structure, rhymes, and preservation techniques."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "project": "Oral Heritage Archive",
+        "description": "A national initiative to record and digitally preserve endangered forms of poetry including Al-Mawtashil."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "King Abdulaziz Center for World Culture (Ithra)",
+        "role": "Digitization, curation, and promotion of oral poetry heritage."
+      },
+      {
+        "partner": "Saudi Heritage Commission",
+        "role": "Policy support and documentation standards."
+      }
+    ],
+    "outcomes": [
+      "Preservation of intangible cultural heritage",
+      "Public awareness of Bedouin oral traditions",
+      "Inclusion of oral poetry in national educational content"
+    ],
+    "timeline": {
+      "start_year": 2021,
+      "estimated_completion": "Ongoing",
+      "key_milestones": [
+        {
+          "year": 2022,
+          "event": "Launch of national poetry archive program"
+        },
+        {
+          "year": 2024,
+          "event": "Integration of oral poetry in cultural festivals"
+        }
+      ]
+    },
+    "media": {
+      "videos": [
+        "https://www.youtube.com/watch?v=p_VaCyBDlfc"
+      ]
+      
+    }
+  },
+  
+  {
+    "id": 9,
+    "type": "heritage",
+    "name": "Al-Qatt Al-Asiri",
+    "description": "Traditional women's wall art in Asir, colorful geometric patterns.",
+    "vision2030": "Recognized by UNESCO and promoted globally.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [{ "name": "Al-Muftaha Village", "description": "Center of Asiri art." }],
+    "activities": [{ "type": "workshop", "name": "Qatt Art Classes", "description": "Hands-on sessions." }],
+    "sustainable_initiatives": [],
+    "partnerships": [{ "partner": "UNESCO", "role": "Intangible heritage." }],
+    "outcomes": ["Global recognition"],
+    "timeline": { "start_year": 2017, "estimated_completion": "Ongoing" },
+    "media": {
+       "videos": ["https://youtu.be/FCNvD_NxmpM?si=Zni4prxWYaawuBux"] }
+  },
+
+  {
+    "id": 10,
+    "type": "landmark",
+    "name": "Edge of the World",
+    "description": "Dramatic cliffs near Riyadh offering sweeping desert views, popular for its stunning sunsets and breathtaking scenery.",
+    "vision2030": "Developed as an adventure tourism site with a focus on sustainable and eco-friendly tourism.",
+    "coordinates": { "latitude": 24.942, "longitude": 45.8689 },
+    "climate": { 
+      "summer": "40-45°C", 
+      "winter": "10-20°C", 
+      "best_time_to_visit": ["Winter", "Early Spring"] 
+    },
+    "notable_sites": [
+      { 
+        "name": "Al-Murrabah", 
+        "description": "A nearby site known for its unique rock formations and views."
+      }
+    ],
+    "activities": [
+      { 
+        "type": "hiking", 
+        "name": "Cliff Trekking", 
+        "description": "Guided adventure tours offering panoramic desert views."
+      },
+      { 
+        "type": "photography", 
+        "name": "Desert Photography", 
+        "description": "Capture stunning landscapes and desert vistas during sunrise and sunset."
+      }
+    ],
+    "sustainable_initiatives": [
+      { 
+        "project": "Eco-friendly Tourism Development", 
+        "description": "Use of solar power, waste reduction, and sustainable practices to minimize the environmental impact."
+      }
+    ],
+    "partnerships": [
+      { 
+        "partner": "Tourism Development Fund", 
+        "role": "Eco-tourism promotion and infrastructure development." 
+      },
+      { 
+        "partner": "Saudi Wildlife Conservation Society", 
+        "role": "Preservation of local wildlife and desert ecosystem." 
+      }
+    ],
+    "outcomes": [
+      "Adventure tourism growth", 
+      "Preservation of natural landscapes", 
+      "Local job creation"
+    ],
+    "timeline": { 
+      "start_year": 2022, 
+      "estimated_completion": "2025",
+      "key_milestones": [
+        { "year": 2023, "event": "Completion of hiking trails" },
+        { "year": 2024, "event": "Opening of visitor center" }
+      ]
+    },
+    "media": {
+      "videos": [
+        "https://youtu.be/1HtEKtT_Bpw?si=exc6E4NUU43nPojB"
+        
+      ]
+      
+    }
+  },
+  
+
+
+  {
+    "id": 11,
+    "type": "city",
+    "name": "Najran",
+    "description": "Ancient oasis city with palm groves, adobe forts, and rich cultural heritage. Known for its blend of ancient history and modern development.",
+    "vision2030": "Promoted for cultural tourism, cross-border trade, and eco-tourism with an emphasis on preserving heritage.",
+    "coordinates": { "latitude": 17.4917, "longitude": 44.1321 },
+    "climate": { 
+      "summer": "35-42°C", 
+      "winter": "10-20°C", 
+      "best_time_to_visit": ["Winter", "Early Spring"]
+    },
+    "notable_sites": [
+      { 
+        "name": "Al-Ukhdood", 
+        "description": "An ancient archaeological site featuring ruins from the pre-Islamic period, including inscriptions and old fortifications."
+      },
+      { 
+        "name": "Najran Fort", 
+        "description": "A historic adobe fort, a key symbol of Najran's history and resilience."
+      }
+    ],
+    "activities": [
+      { 
+        "type": "cultural", 
+        "name": "Najran Festival", 
+        "description": "Celebration of crafts, folklore, and traditional music, showcasing the rich cultural heritage of Najran." 
+      },
+      { 
+        "type": "ecotourism", 
+        "name": "Palm Grove Exploration", 
+        "description": "Guided tours through the lush palm groves, focusing on the sustainable cultivation of dates and local agriculture."
+      }
+    ],
+    "sustainable_initiatives": [
+      { 
+        "project": "Date Palm Preservation", 
+        "description": "Efforts to protect the unique date palm groves and promote sustainable farming practices."
+      }
+    ],
+    "partnerships": [
+      { 
+        "partner": "Saudi Ministry of Tourism", 
+        "role": "Promotion of cultural and eco-tourism initiatives in Najran." 
+      },
+      { 
+        "partner": "UNESCO", 
+        "role": "Heritage conservation and support for archaeological research." 
+      }
+    ],
+    "outcomes": [
+      "Cultural revival", 
+      "Increased cultural tourism", 
+      "Preservation of local heritage"
+    ],
+    "timeline": { 
+      "start_year": 2023, 
+      "estimated_completion": "2030",
+      "key_milestones": [
+        { "year": 2024, "event": "Completion of heritage site restoration" },
+        { "year": 2026, "event": "Launch of ecotourism initiatives and visitor center" }
+      ]
+    },
+    "media": {
+      
+      "videos": [
+        "https://youtu.be/BOZRgxGJqDM?si=s56_i8PDF_hu6d0V"
+        
+      ]
+    }
+  },
+  
+
+
+  {
+    "id": 12,
+    "type": "poetry",
+    "name": "Nabati Poetry",
+    "description": "Oral vernacular poetry of the Arabian Peninsula, rich in social commentary and storytelling. Deeply rooted in the culture and history of the region, often reflecting themes of love, pride, and the challenges of desert life.",
+    "vision2030": "Featured in festivals, national poetry competitions, and integrated into educational programs to preserve and promote cultural heritage.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [
+      { 
+        "name": "Al Ula", 
+        "description": "A significant location in the Arabian Peninsula where Nabati poetry has been recited for generations." 
+      }
+    ],
+    "activities": [
+      { 
+        "type": "festival", 
+        "name": "Million’s Poet", 
+        "description": "A televised poetry contest that celebrates Nabati poets and their impact on contemporary culture." 
+      },
+      { 
+        "type": "cultural", 
+        "name": "Poetry Nights", 
+        "description": "Local gatherings where poets recite Nabati poetry, encouraging community engagement and cultural exchange." 
+      }
+    ],
+    "sustainable_initiatives": [
+      { 
+        "project": "Poetry Preservation", 
+        "description": "Efforts to document and record traditional Nabati poetry for future generations." 
+      }
+    ],
+    "partnerships": [
+      { 
+        "partner": "Ministry of Culture", 
+        "role": "Festival organization, promotion, and cultural preservation." 
+      },
+      { 
+        "partner": "Saudi Television", 
+        "role": "Broadcasting poetry competitions to a global audience." 
+      }
+    ],
+    "outcomes": [
+      "Youth engagement in preserving cultural heritage",
+      "Increased recognition of Nabati poetry on international platforms",
+      "Strengthened community identity through cultural practices"
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "estimated_completion": "Ongoing",
+      "key_milestones": [
+        { "year": 2021, "event": "Launch of digital platform for poetry recordings" },
+        { "year": 2023, "event": "Expansion of Million’s Poet to an international audience" }
+      ]
+    },
+    "media": {
+    
+      "videos": [
+        "https://youtu.be/45SXXRTAsVI?si=Er0wyTCCvwTr2rko"
+        
+      ]
+     
+    }
+  },
+  
+  {
+    "id": 14,
+    "type": "heritage",
+    "name": "Al-Sadu Weaving",
+    "description": "Traditional Bedouin weaving art, creating textiles from goat and camel hair.",
+    "vision2030": "Registered as UNESCO intangible cultural heritage.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [{ "name": "Sadu House", "description": "Museum and workshop in Riyadh." }],
+    "activities": [{ "type": "workshop", "name": "Weaving Classes", "description": "Learn Sadu techniques." }],
+    "sustainable_initiatives": [],
+    "partnerships": [{ "partner": "UNESCO", "role": "Heritage listing." }],
+    "outcomes": ["Artisan revival"],
+    "timeline": { "start_year": 2020, "estimated_completion": "Ongoing" },
+
+    "media": {
+       "videos": ["https://youtu.be/uPlC-cJp4_8?si=H-HfRdV7ZuEqCYC2"]   
+      }
+  },
+
+
+
+  {
+    "id": 15,
+    "type": "heritage",
+    "name": "Ardha Dance",
+    "description": "Ardha is a traditional Saudi sword dance that symbolizes unity, strength, and national pride. Historically performed by tribal warriors before battle, it is now a celebrated cultural performance accompanied by drums, poetry chanting, and synchronized movements.",
+    "vision2030": "Promoted as a core symbol of Saudi identity and showcased internationally at cultural festivals and diplomatic events to foster cross-cultural appreciation.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [
+      {
+        "name": "Al-Masmak Fortress, Riyadh",
+        "description": "Historic site where Ardha performances are often held to symbolize the unification of the Kingdom."
+      },
+      {
+        "name": "King Abdulaziz Historical Center",
+        "description": "A cultural venue hosting exhibitions and live Ardha performances during national holidays."
+      }
+    ],
+    "activities": [
+      {
+        "type": "performance",
+        "name": "Saudi National Day",
+        "description": "Mass Ardha displays held across major cities with participation from cultural troupes."
+      },
+      {
+        "type": "festival",
+        "name": "Janadriyah Festival",
+        "description": "Annual cultural heritage festival featuring live Ardha performances and interactive audience participation."
+      },
+      {
+        "type": "workshop",
+        "name": "Ardha Dance Workshops",
+        "description": "Educational sessions in schools and cultural centers teaching the choreography and history of Ardha."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "project": "Ardha Preservation Program",
+        "description": "Training younger generations to ensure intergenerational transmission of the dance."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "UNESCO",
+        "role": "Recognition of Ardha as part of the Intangible Cultural Heritage of Humanity (2015)."
+      },
+      {
+        "partner": "Ministry of Culture",
+        "role": "Cultural promotion, choreography development, and international representation."
+      }
+    ],
+    "outcomes": [
+      "Global recognition",
+      "Youth engagement in cultural heritage",
+      "Increased cultural tourism"
+    ],
+    "timeline": {
+      "start_year": 2015,
+      "estimated_completion": "Ongoing",
+      "key_milestones": [
+        { "year": 2015, "event": "Inscription on UNESCO list of intangible cultural heritage" },
+        { "year": 2019, "event": "First international Ardha performance in Paris Expo" },
+        { "year": 2023, "event": "Introduction of school Ardha curriculum module" }
+      ]
+    },
+    "media": {
+   
+      "videos": [
+        "https://youtu.be/P3HiKBFDnx4?si=d5zGQO6gj3MaQzQ8"
+      ] 
+    }
+  },
+
+
+  {
+    "id": 17,
+    "type": "city",
+    "name": "Hail",
+    "description": "City of poets and ancient rock art in northwest Saudi Arabia, known for its rich Nabataean and Thamudic heritage.",
+    "vision2030": "Developed as a hub for rock art tourism, desert sports, and cultural storytelling aligned with eco-tourism and heritage preservation.",
+    "coordinates": { "latitude": 27.5216, "longitude": 41.7208 },
+    "climate": {
+      "summer": "30-40°C",
+      "winter": "5-15°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      { "name": "Jubbah Rock Art", "description": "UNESCO-listed site featuring petroglyphs from over 10,000 years ago." },
+      { "name": "A'arif Fort", "description": "Historical hilltop fort offering panoramic views of Hail." }
+    ],
+    "activities": [
+      { "type": "rally", "name": "Hail International Rally", "description": "Globally recognized desert racing event." },
+      { "type": "cultural", "name": "Hail Heritage Festival", "description": "Showcasing traditional poetry, crafts, and cuisine." },
+      { "type": "ecotourism", "name": "Rock Art Guided Hikes", "description": "Sustainable treks to heritage-rich petroglyph sites." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Desert Ecosystem Preservation", "description": "Local programs to protect natural habitats around rock art zones." }
+    ],
+    "partnerships": [
+      { "partner": "UNESCO", "role": "Heritage preservation and site conservation." },
+      { "partner": "Saudi Commission for Tourism and National Heritage (SCTH)", "role": "Tourism development and site management." },
+      { "partner": "Saudi Motorsport Company", "role": "Organizing and promoting the Hail Rally under Vision 2030." }
+    ],
+    "outcomes": [
+      "Cultural tourism growth",
+      "Increased global awareness of Saudi heritage",
+      "Youth engagement through motorsport and history"
+    ],
+    "timeline": {
+      "start_year": 2017,
+      "estimated_completion": "Ongoing"
+    },
+    "media": {
+      "videos": [
+        "https://youtu.be/iOioOORG-Oc?si=DU7cQExmxYchtC2C"
+      ]
+    }
+  },
+  
+
+  {
+    "id": 18,
+    "type": "landmark",
+    "name": "Wadi Al Disah",
+    "description": "A breathtaking valley in Tabuk with towering sandstone cliffs, freshwater springs, and dense palm groves, known for its biodiversity and ancient Nabataean history.",
+    "vision2030": "Developed as a sustainable eco-tourism destination within NEOM’s nature reserve, promoting conservation and responsible exploration.",
+    "coordinates": { "latitude": 27.5764, "longitude": 36.5781 },
+    "climate": {
+      "summer": "30-40°C",
+      "winter": "10-20°C",
+      "best_time_to_visit": ["Spring", "Autumn"]
+    },
+    "notable_sites": [
+      { "name": "Nabataean Inscriptions", "description": "Rock carvings and ancient scripts dating back over 2,000 years." },
+      { "name": "Disah Springs", "description": "Natural freshwater sources supporting unique desert vegetation." }
+    ],
+    "activities": [
+      { "type": "hiking", "name": "Valley Exploration", "description": "Guided trails through sandstone canyons and oases." },
+      { "type": "photography", "name": "Golden Hour Tours", "description": "Capture scenic landscapes and wildlife." },
+      { "type": "cultural", "name": "Local Storytelling Sessions", "description": "Evening events featuring Nabataean legends and Bedouin culture." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Wadi Ecosystem Protection", "description": "Ongoing NEOM-funded project to conserve flora, fauna, and water resources." },
+      { "name": "Green Tourism Guidelines", "description": "Visitor program promoting low-impact travel and waste reduction." }
+    ],
+    "partnerships": [
+      { "partner": "NEOM", "role": "Eco-tourism planning, infrastructure, and sustainability oversight." },
+      { "partner": "Saudi Ministry of Environment, Water and Agriculture", "role": "Ecosystem monitoring and water conservation." }
+    ],
+    "outcomes": [
+      "Growth in sustainable tourism",
+      "Increased global visibility of Tabuk’s natural heritage",
+      "Preservation of endangered desert biodiversity"
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "estimated_completion": "Ongoing"
+    },
+    "media": {
+      "videos": [
+        "https://youtu.be/QvyUnj3hzRo?si=jo5VH5wx04KmpcG-"
+      ]
+     
+    }
+  },
+  
+
+
+  {
+    "id": 19,
+    "type": "city",
+    "name": "Al Jouf",
+    "description": "Northern Saudi city known for ancient ruins, olive cultivation, and solar energy leadership.",
+    "vision2030": "Promoted as a hub for agricultural tourism and renewable energy innovation.",
+    "coordinates": { "latitude": 29.9614, "longitude": 40.2056 },
+    "climate": {
+      "summer": "35-45°C",
+      "winter": "5-15°C",
+      "best_time_to_visit": ["Winter"]
+    },
+    "notable_sites": [
+      { "name": "Marid Castle", "description": "An ancient fortress dating back to the Nabataean period." },
+      { "name": "Dumat Al-Jandal", "description": "Historic city with archaeological significance and ancient ruins." },
+      { "name": "Zaabal Castle", "description": "A hilltop fortress overlooking the city of Sakaka." },
+      { "name": "Umar ibn Al-Khattab Mosque", "description": "One of the oldest mosques in the Arabian Peninsula." },
+      { "name": "Dumat Al-Jandal Lake", "description": "A man-made lake offering water sports and eco-tourism." },
+      { "name": "Sakaka Solar Power Plant", "description": "Saudi Arabia's first utility-scale solar project, generating 300 MW of clean energy." }
+    ],
+    "activities": [
+      { "type": "festival", "name": "Olive Festival", "description": "Annual celebration of the olive harvest and local agriculture." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Sakaka Solar Energy Project", "description": "Part of Vision 2030's shift to renewable energy sources." }
+    ],
+    "partnerships": [
+      { "partner": "Ministry of Agriculture", "role": "Agri-tourism support." },
+      { "partner": "ACWA Power", "role": "Solar energy development and operation." }
+    ],
+    "outcomes": [
+      "Economic diversification",
+      "Sustainable energy adoption",
+      "Cultural heritage promotion"
+    ],
+    "timeline": {
+      "start_year": 2018,
+      "estimated_completion": "Ongoing"
+    },
+    "media": {
+      "videos": ["https://youtu.be/jAIA5-7GW-U?si=uczQRQtUtSepHt5n"]
+    }
+  },
+  
+  {
+    "id": 20,
+    "type": "landmark",
+    "name": "Farasan Islands",
+    "description": "A pristine archipelago in the Red Sea known for vibrant coral reefs, rare Farasani gazelles, and deep cultural history including Ottoman-era architecture.",
+    "vision2030": "Positioned as a sustainable marine and cultural tourism destination, balancing biodiversity protection with eco-tourism.",
+    "coordinates": { "latitude": 16.7035, "longitude": 42.1215 },
+    "climate": {
+      "summer": "30-40°C",
+      "winter": "20-30°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      { "name": "Al Qassar Heritage Village", "description": "Ancient coral-stone houses reflecting island heritage." },
+      { "name": "Farasan Marine Sanctuary", "description": "Protected habitat for coral reefs and endangered species." },
+      { "name": "Al Najdi Mosque", "description": "19th-century Ottoman-style mosque built by pearl merchants." }
+    ],
+    "activities": [
+      { "type": "diving", "name": "Coral Reef Exploration", "description": "Scuba and snorkel tours in crystal-clear waters." },
+      { "type": "wildlife", "name": "Gazelle Watching", "description": "Observe the endangered Farasani gazelle in its natural habitat." },
+      { "type": "eco-tour", "name": "Bird Migration Tours", "description": "Guided tours for birdwatchers during seasonal migration." },
+      { "type": "cultural", "name": "Heritage Site Tours", "description": "Visits to historical villages and mosques." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Coral Restoration Program", "description": "Rehabilitation of damaged reef ecosystems." },
+      { "name": "Plastic-Free Coastlines", "description": "Initiatives to reduce marine pollution on island shores." }
+    ],
+    "partnerships": [
+      { "partner": "Saudi Green Initiative", "role": "Biodiversity protection and eco-tourism development." },
+      { "partner": "Red Sea Authority", "role": "Sustainable tourism regulation and infrastructure." }
+    ],
+    "outcomes": [
+      "Marine biodiversity conservation",
+      "Eco-tourism growth",
+      "Cultural heritage preservation"
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "milestones": ["Declared protected area in 2021", "Tourism infrastructure launched 2023"]
+    },
+    "media": {
+      "videos": ["https://youtu.be/B4AHKLsfMSY?si=tLNPFuKNBmy-ntUP"]
+    }
+  },
+  
+
+  {
+    "id": 21,
+    "type": "heritage",
+    "name": "Traditional Majlis",
+    "description": "The Majlis is a traditional gathering space in Saudi homes where guests are welcomed with coffee, dates, and conversation. It reflects values of hospitality, respect, and community — integral to Saudi culture. Majlis styles vary between regions: the Najdi Majlis, decorated with sadu textiles and floor cushions, and the Hijazi Majlis with wooden furniture and ornate windows.",
+    "vision2030": "Integrated into heritage tourism villages, showcasing Saudi social traditions to visitors and preserving intangible cultural heritage.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [
+      { "name": "At-Turaif District, Diriyah", "description": "Historic Najdi-style majlis in mud-brick architecture." },
+      { "name": "Historic Jeddah", "description": "Majlis rooms with Hijazi design and mashrabiya windows." }
+    ],
+    "activities": [
+      { "type": "cultural_experience", "name": "Majlis Visit", "description": "Ritual serving of gahwa (coffee) and dates in a traditional setting." },
+      { "type": "performance", "name": "Poetry and Oral Storytelling", "description": "Nabati poetry recitals and oral history sessions." },
+      { "type": "music", "name": "Folk Music Evenings", "description": "Traditional instruments like rababa and mirwas in Majlis settings." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Intangible Heritage Program", "description": "Preserving oral traditions, rituals, and hospitality practices through documentation and education." }
+    ],
+    "partnerships": [
+      { "partner": "Heritage Commission", "role": "Documentation and preservation of Majlis traditions." },
+      { "partner": "Architecture and Design Commission", "role": "Restoration of Majlis interiors using regional styles." },
+      { "partner": "Diriyah Gate Development Authority", "role": "Incorporating Majlis experiences into heritage tourism." }
+    ],
+    "outcomes": [
+      "Promotion of Saudi hospitality culture",
+      "Cultural continuity through generations",
+      "Enrichment of visitor experiences in heritage villages"
+    ],
+    "timeline": {
+      "start_year": 2020,
+      "milestones": ["UNESCO inscription as intangible heritage (2015)", "Integrated into Diriyah project (2022)"]
+    },
+    "media": {
+      "images": [
+        "https://example.com/majlis.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Majlis_Najd_style.jpg/800px-Majlis_Najd_style.jpg"
+      ],
+      "videos": ["https://youtu.be/7LiqcF3ZJgU?si=7vEAcXrGmpPXvNY9"]
+    }
+  },
+  
+  {
+    "id": 22,
+    "type": "poetry",
+    "name": "Al-Muwashshahat",
+    "description": "A lyrical poetic form of Andalusian origin characterized by musicality and strophic structure, adopted in the Hejaz where it flourished through performances with the oud and other traditional instruments.",
+    "vision2030": "Revived through integration in cultural festivals, musical heritage concerts, and school arts programs to promote national identity and creative expression.",
+    "coordinates": { "latitude": 21.4225, "longitude": 39.8262 },
+    "climate": null,
+    "notable_sites": [
+      {
+        "name": "Bab Makkah – Historic Jeddah",
+        "description": "A cultural venue where traditional arts, including Muwashshahat, are performed during seasonal festivals.",
+        "coordinates": { "latitude": 21.4903, "longitude": 39.1861 }
+      },
+      {
+        "name": "Royal Arts Complex – Riyadh",
+        "description": "Hosts annual classical Arabic music showcases featuring Muwashshahat compositions.",
+        "coordinates": { "latitude": 24.7136, "longitude": 46.6753 }
+      }
+    ],
+    "activities": [
+      {
+        "type": "musical_event",
+        "name": "Hejaz Nights",
+        "description": "Live recitations of Muwashshahat with traditional instrumentation like oud, qanun, and riqq."
+      },
+      {
+        "type": "workshop",
+        "name": "Poetry and Composition Labs",
+        "description": "Workshops teaching Muwashshahat writing and performance to students and musicians."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Traditional Music Archive",
+        "description": "Preserving and digitizing historical recordings of Muwashshahat from the Hejaz region."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "Ministry of Culture – Music Commission",
+        "role": "Event curation, artist support, and curriculum development."
+      },
+      {
+        "partner": "King Abdulaziz Center for World Culture (Ithra)",
+        "role": "Hosting cultural nights and poetic dialogues."
+      }
+    ],
+    "outcomes": [
+      "Revival of Arab-Andalusian arts",
+      "Youth engagement in traditional music",
+      "Cultural diplomacy through poetry festivals"
+    ],
+    "timeline": {
+      "start_year": 2022,
+      "milestones": [
+        "Integration in Hejaz Arts Week (2023)",
+        "Launch of national musical heritage catalog (2024)"
+      ]
+    },
+    "media": {
+      "videos": [
+        "https://youtu.be/p8FZ0aSefpQ?si=MGsrTHKNIPKqcmuS"
+      ]
+    }
+  },
+  
+  {
+    "id": 23,
+    "type": "heritage",
+    "name": "Hejazi Doors",
+    "description": "Intricately carved and colorfully painted wooden doors that adorn the historic homes of Al-Balad in Jeddah. These doors reflect a unique fusion of Islamic, Ottoman, and Red Sea trade influences, representing centuries of Hejazi architectural identity.",
+    "vision2030": "Revived as symbols of cultural identity through national design exhibitions, urban restoration programs, and incorporation in modern architectural projects to preserve heritage aesthetics.",
+    "coordinates": { "latitude": 21.4858, "longitude": 39.1925 },
+    "climate": {
+      "summer": "30–42°C",
+      "winter": "18–28°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      {
+        "name": "Al-Balad – Historic Jeddah",
+        "description": "UNESCO World Heritage site where traditional Hejazi doors are found on coral-stone buildings.",
+        "coordinates": { "latitude": 21.4872, "longitude": 39.1920 }
+      }
+    ],
+    "activities": [
+      {
+        "type": "heritage_walk",
+        "name": "Architectural Tours",
+        "description": "Guided walks exploring Hejazi façades and historic door craftsmanship."
+      },
+      {
+        "type": "art_exhibit",
+        "name": "Hejazi Design Showcase",
+        "description": "Displays of original doors, replicas, and modern reinterpretations in design festivals."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Traditional Woodwork Training",
+        "description": "Workshops supporting local artisans to preserve the door-making craft using sustainable materials."
+      }
+    ],
+    "partnerships": [
+      {
+        "partner": "Ministry of Culture – Architecture and Design Commission",
+        "role": "Promotion, exhibitions, and integration into design policies."
+      },
+      {
+        "partner": "UNESCO",
+        "role": "Preservation of architectural heritage under World Heritage status."
+      }
+    ],
+    "outcomes": [
+      "Revival of traditional woodcraft",
+      "Cultural tourism in Al-Balad",
+      "Integration of heritage in modern architecture"
+    ],
+    "timeline": {
+      "start_year": 2021,
+      "milestones": [
+        "Door Restoration Initiative Launch (2022)",
+        "Hejazi Artisans Week at Diriyah Biennale (2023)"
+      ]
+    },
+    "media": {
+      "videos": [
+        "https://youtu.be/kPstf3D2kHE?si=pGmnJiQhToKlh8Vr"
+      ]
+    }
+  },
+  
+  {
+    "id": 24,
+    "type": "landmark",
+    "name": "Sharaan Nature Reserve",
+    "description": "A protected sanctuary in AlUla dedicated to preserving Arabian leopards, desert biodiversity, and sustainable eco-lodges embedded in the sandstone mountains.",
+    "vision2030": "Developed as a global model for sustainable luxury eco-tourism, merging heritage conservation with environmental innovation.",
+    "coordinates": { "latitude": 26.6924, "longitude": 37.9204 },
+    "climate": {
+      "summer": "35-45°C",
+      "winter": "10-20°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      { "name": "Sharaan Eco-Resort", "description": "Luxury resort designed by Jean Nouvel, carved into the natural rock." },
+      { "name": "Arabian Leopard Conservation Zone", "description": "Secure area for the reintroduction and protection of endangered leopards." }
+    ],
+    "activities": [
+      { "type": "wildlife_tour", "name": "Leopard Spotting", "description": "Guided eco-safaris for wildlife observation." },
+      { "type": "stargazing", "name": "Desert Sky Experience", "description": "Astronomy tours under AlUla's clear night skies." },
+      { "type": "hiking", "name": "Rock Trail Adventures", "description": "Scenic treks through dramatic rock formations." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Arabian Leopard Breeding Program" },
+      { "name": "Zero-Emission Eco-Lodge Design" },
+      { "name": "Community-based Conservation Programs" }
+    ],
+    "partnerships": [
+      { "partner": "Royal Commission for AlUla", "role": "Nature reserve management and eco-tourism planning." },
+      { "partner": "Panthera", "role": "Arabian leopard protection and breeding." }
+    ],
+    "outcomes": [
+      "Biodiversity protection",
+      "Heritage-linked sustainable tourism",
+      "Global conservation awareness"
+    ],
+    "timeline": {
+      "start": "2019",
+      "milestones": [
+        { "year": 2021, "event": "Arabian Leopard Day established." },
+        { "year": 2023, "event": "Sharaan Eco-Resort construction progress update." }
+      ]
+    },
+    "media": {
+      "videos": ["https://youtu.be/HI-2H3WKQgY?si=95I9zKieb01gDwIL"]
+    }
+  },
+  
+  
+  {
+    "id": 25,
+    "type": "poetry",
+    "name": "Al-Rajaz",
+    "description": "Simple, rhythmic poetic meter often used in chants, battle cries, and folk songs, with deep historical roots in Arab culture.",
+    "vision2030": "Revived in heritage festivals, school curricula, and national events celebrating Saudi culture.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [
+      { "name": "Saudi Heritage Festivals", "description": "Festivals dedicated to reviving traditional forms of poetry, including Al-Rajaz." }
+    ],
+    "activities": [
+      { "type": "poetry_workshop", "name": "Al-Rajaz Poetry Workshop", "description": "An educational workshop for students and enthusiasts to learn and practice the art of Al-Rajaz." },
+      { "type": "cultural_event", "name": "Al-Rajaz Performance Night", "description": "Public performances of Al-Rajaz poetry in cultural festivals." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Poetry Education Programs", "description": "Incorporating Al-Rajaz in educational curricula to preserve and promote traditional poetry forms." }
+    ],
+    "partnerships": [
+      { "partner": "Ministry of Culture", "role": "Supporting the preservation and promotion of Al-Rajaz through cultural festivals and educational initiatives." },
+      { "partner": "Saudi National Heritage Commission", "role": "Collaboration on promoting Al-Rajaz at the national level." }
+    ],
+    "outcomes": [
+      "Cultural education and preservation of traditional poetry.",
+      "Encouraging youth engagement with Saudi heritage and history."
+    ],
+    "timeline": "2023-2030",
+    "media": { "images": [], "videos": [], "audio": [] }
+  },
+  
+
+  {
+    "id": 26,
+    "type": "energy_project",
+    "name": "Dumat Al-Jandal Wind Energy Project",
+    "description": "First and largest wind energy project in Saudi Arabia and the Middle East, located in Dumat Al-Jandal, Al-Jouf. It produces 400 MW of renewable energy.",
+    "vision2030": "Contributes to the diversification of energy sources and supports the sustainability goals of Vision 2030.",
+    "coordinates": { "latitude": 29.8111, "longitude": 39.8711 },
+    "climate": { "summer": "30-40°C", "winter": "10-20°C", "best_time_to_visit": ["Winter"] },
+    "activities": [
+      { "type": "sustainable_energy", "name": "Wind Energy Generation", "description": "Renewable energy generation from wind turbines." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Carbon Emissions Reduction", "description": "The project reduces about 988,000 tons of CO2 emissions annually." }
+    ],
+    "partnerships": [
+      { "partner": "Masdar", "role": "Developer and operator of the project." },
+      { "partner": "EDF Renewables", "role": "Project partner in development and operations." }
+    ],
+    "outcomes": [
+      "Renewable energy generation",
+      "Job creation in local communities",
+      "Contributes to Vision 2030's sustainability goals"
+    ],
+    "timeline": { "start": "2019", "completion": "2022" },
+    "media": {
+      "videos": [
+        "https://youtu.be/TRKlIirusk8?si=RsH5HDQSYa2trvqH"
+      ]
+    }
+  },
+  
+  
+
+  {
+    "id": 27,
+    "type": "landmark",
+    "name": "Jubbah Rock Art",
+    "description": "Ancient petroglyphs in Jubbah, Ha'il, depicting animals, humans, and symbols, dating back over 10,000 years. A UNESCO World Heritage site recognized for its exceptional cultural value.",
+    "vision2030": "Protected and promoted as a key cultural heritage tourism destination, contributing to global understanding of early human art.",
+    "coordinates": { "latitude": 28.0348, "longitude": 40.6193 },
+    "climate": { "summer": "35-45°C", "winter": "10-20°C", "best_time_to_visit": ["Winter", "Spring"] },
+    "notable_sites": [
+      { "name": "Jubbah Rock Carvings", "description": "A UNESCO World Heritage site with over 20,000 rock carvings." },
+      { "name": "Al-Khuraymat", "description": "An area with additional prehistoric engravings and settlements." }
+    ],
+    "activities": [
+      { "type": "heritage_tour", "name": "Rock Art Safari", "description": "Guided tours that explore ancient carvings, offering insight into early human life and local wildlife." }
+    ],
+    "sustainable_initiatives": [
+      { "name": "Cultural Preservation Programs", "description": "Ongoing conservation efforts to protect the rock art from environmental damage." }
+    ],
+    "partnerships": [
+      { "partner": "Saudi Heritage Commission", "role": "Protection and sustainable tourism development." }
+    ],
+    "outcomes": [
+      "UNESCO recognition",
+      "Cultural heritage preservation",
+      "Boost in local tourism"
+    ],
+    "timeline": "Designated as UNESCO World Heritage Site in 2015.",
+    "media": {
+      "videos": ["https://youtu.be/PSzAwqQ3syc?si=3d-H80jp1ri0xMDC"]
+    }
+  },
+  
+
+  {
+    "id": 28,
+    "type": "city",
+    "name": "Yanbu",
+    "description": "Port city on the Red Sea, known for its pristine beaches, diving spots, and as an industrial hub. A blend of modernity and natural beauty, ideal for both relaxation and adventure.",
+    "vision2030": "Developed as a dual-purpose city, balancing industrial growth with sustainable tourism, highlighting eco-tourism and cultural heritage.",
+    "coordinates": { "latitude": 24.0899, "longitude": 38.0637 },
+    "climate": { "summer": "35-45°C", "winter": "20-25°C", "best_time_to_visit": ["Winter", "Spring"] },
+    "notable_sites": [
+      { 
+        "name": "Yanbu Al Bahr", 
+        "description": "The historical old town, known for its coral houses and vibrant markets, showcasing the region's traditional architecture."
+      },
+      { 
+        "name": "Yanbu Corniche", 
+        "description": "A scenic coastal promenade perfect for walking, cycling, and enjoying the Red Sea views." 
+      }
+    ],
+    "activities": [
+      { 
+        "type": "diving", 
+        "name": "Coral Reef Dives", 
+        "description": "Experience the beauty of the Red Sea's coral reefs with guided scuba dives and snorkeling excursions." 
+      },
+      { 
+        "type": "cultural_experience", 
+        "name": "Yanbu Cultural Festival", 
+        "description": "Annual event showcasing local art, music, and traditional crafts, highlighting Yanbu's cultural heritage." 
+      }
+    ],
+    "sustainable_initiatives": [
+      { 
+        "name": "Marine Conservation Projects", 
+        "description": "Efforts to protect coral reefs and marine life, with eco-friendly diving practices and awareness campaigns for tourists." 
+      },
+      { 
+        "name": "Sustainable Urban Development", 
+        "description": "Promoting green building techniques and reducing carbon footprints in industrial operations, fostering eco-friendly tourism." 
+      }
+    ],
+    "partnerships": [
+      { 
+        "partner": "Saudi Tourism Authority", 
+        "role": "Collaborating to promote tourism and preserve cultural heritage while balancing industrial development." 
+      }
+    ],
+    "outcomes": ["Tourism diversification", "Cultural heritage preservation", "Eco-tourism growth"],
+    "timeline": null,
+    "media": { 
+
+      "videos": ["https://youtu.be/cnqB6G7shoI?si=zbCnbpqO9OSU1Dtx"]
+
+    }
+  },
+  
+  {
+    "id": 29,
+    "type": "city",
+    "name": "Taif",
+    "description": "Nestled in the mountains, Taif is renowned for its fragrant roses, cool summer weather, and vibrant traditional souqs. The city is a blend of natural beauty and rich history, making it a prime destination for eco-tourism and cultural exploration. One of the city’s most prominent cultural events is the Souq Okaz, a historic market that celebrates the heritage of Arab poets, traders, and artisans.",
+    "vision2030": "Positioned as a summer tourism hub, fostering the growth of rose-based industries and eco-tourism, while enhancing agricultural sustainability and promoting the region's cultural heritage. Souq Okaz is revitalized as a key cultural tourism event.",
+    "coordinates": { "latitude": 21.4373, "longitude": 40.5127 },
+    "climate": { "summer": "20-30°C", "winter": "5-15°C", "best_time_to_visit": ["Summer", "Spring"] },
+    "notable_sites": [
+      { 
+        "name": "Shubra Palace", 
+        "description": "A historic royal residence that offers a glimpse into Taif's past, now a museum showcasing the region's heritage and architecture." 
+      },
+      { 
+        "name": "Al Rudaf Park", 
+        "description": "A peaceful park featuring stunning rock formations and beautiful walking trails, ideal for relaxation and family outings." 
+      },
+      { 
+        "name": "Souq Okaz", 
+        "description": "An ancient market that has been revived as a cultural festival, celebrating Arabic poetry, crafts, and historical reenactments. It is an essential part of Taif’s cultural tourism." 
+      }
+    ],
+    "activities": [
+      { 
+        "type": "festival", 
+        "name": "Taif Rose Festival", 
+        "description": "The annual celebration of Taif’s famous roses, featuring rose exhibitions, cultural performances, and local crafts." 
+      },
+      { 
+        "type": "agriculture_tour", 
+        "name": "Rose Farm Tours", 
+        "description": "Guided tours through the rose farms where visitors can learn about the cultivation and significance of the Taif rose." 
+      },
+      { 
+        "type": "cultural_event", 
+        "name": "Souq Okaz Festival", 
+        "description": "A festival celebrating the revival of Souq Okaz, where visitors can experience traditional Arab poetry, handicrafts, and historical performances." 
+      }
+    ],
+    "sustainable_initiatives": [
+      { 
+        "name": "Rose-Based Industry Development", 
+        "description": "Efforts to develop eco-friendly rose-based products, such as perfumes, cosmetics, and rosewater, contributing to sustainable agriculture." 
+      },
+      { 
+        "name": "Water Conservation Programs", 
+        "description": "Initiatives focusing on sustainable water use in agriculture, ensuring that the rose farms and surrounding areas thrive in an eco-friendly manner." 
+      }
+    ],
+    "partnerships": [
+      { 
+        "partner": "Ministry of Tourism", 
+        "role": "Promoting Taif as a year-round destination, integrating agricultural, cultural, and ecological aspects." 
+      },
+      { 
+        "partner": "Taif Rose Association", 
+        "role": "Collaboration to preserve the heritage of Taif roses and promote their products in global markets." 
+      },
+      { 
+        "partner": "Souq Okaz Organizing Committee", 
+        "role": "Facilitating the revival and promotion of Souq Okaz as an annual cultural festival and a major tourist attraction." 
+      }
+    ],
+    "outcomes": ["Tourism growth", "Sustainable agriculture", "Cultural heritage preservation", "Cultural tourism development"],
+    "timeline": null,
+    "media": { 
+      "videos": ["https://youtu.be/XKd6GkC--r0?si=M3kZ3MoPsEQWAuMg"]
+    }
+  },
+  
+  {
+    "id": 30,
+    "type": "poetry",
+    "name": "Badawi Elegies",
+    "description": "Poetic laments mourning the lost past, fallen heroes, and cherished moments of desert tribes. These elegies are often recited during mourning and social gatherings, keeping alive the history and valor of the tribe.",
+    "vision2030": "Archived and digitized to preserve Bedouin oral traditions for future generations.",
+    "coordinates": null,
+    "climate": null,
+    "notable_sites": [],
+    "activities": [],
+    "sustainable_initiatives": [],
+    "partnerships": [],
+    "outcomes": [],
+    "timeline": null,
+    "media": {
+      "images": [],
+      "videos": [],
+      "audio": []
+    }
+  },
+
+  {
+    "id": 31,
+    "type": "heritage",
+    "name": "Khaleeji Pearl Diving",
+    "description": "Historic tradition of pearl diving in the Arabian Gulf, source of wealth before oil. This activity was famously practiced in the Gulf regions such as Qatar, Bahrain, Kuwait, and Saudi Arabia.",
+    "vision2030": "Revived in coastal heritage villages and festivals.",
+    "coordinates": { "latitude": 25.276987, "longitude": 50.204749 },
+    "climate": null,
+    "notable_sites": [],
+    "activities": [
+      {
+        "type": "festival",
+        "name": "Pearl Diving Days",
+        "description": "Shows and reenactments."
+      }
+    ],
+    "sustainable_initiatives": [],
+    "partnerships": [],
+    "outcomes": ["Cultural tourism"],
+    "timeline": null,
+    "media": {
+      "videos": ["https://youtu.be/wmBps8x9Wsc?si=7QsMBeBtxbcAgZi4"]
+    }
+  },
+  
+
+  {
+    "id": 32,
+    "type": "city",
+    "name": "Makkah",
+    "description": "Islam’s holiest city, birthplace of the Prophet Muhammad (PBUH) and site of the Grand Mosque (Al-Masjid Al-Haram), which houses the Kaaba, the direction of prayer for Muslims worldwide.",
+    "vision2030": "Enhanced infrastructure and smart technologies to accommodate increasing pilgrimage numbers and improve visitor experience.",
+    "coordinates": { "latitude": 21.3891, "longitude": 39.8579 },
+    "climate": { "summer": "35-45°C", "winter": "20-30°C", "best_time_to_visit": ["Winter", "Umrah seasons", "Hajj"] },
+    "notable_sites": [
+      {
+        "name": "Al-Masjid Al-Haram",
+        "description": "The largest mosque in the world, surrounding the Kaaba. Central to Islamic pilgrimage and spiritual life."
+      }
+    ],
+    "activities": [
+      {
+        "type": "religious",
+        "name": "Hajj & Umrah",
+        "description": "Annual and year-round pilgrimages undertaken by millions of Muslims."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Green Hajj Initiative",
+        "description": "Efforts to reduce environmental impact during pilgrimage seasons through waste reduction and eco-friendly transport."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "Ministry of Hajj and Umrah",
+        "description": "Coordinating pilgrim services and smart city solutions."
+      }
+    ],
+    "outcomes": ["Religious tourism", "Cultural preservation", "Global spiritual center"],
+    "timeline": {
+      "ancient": "Founded in the 6th century BCE",
+      "prophetic_era": "Birthplace of Prophet Muhammad (~570 CE)",
+      "modern": "Ongoing expansions and Vision 2030 integration"
+    },
+    "media": {
+       "videos": ["https://youtu.be/5pJV4l7gRCg?si=Ksn0IKp8Zf6-DX1n"]
+    }
+  },
+
+  {
+    "id": 33,
+    "type": "city",
+    "name": "Madinah",
+    "description": "Second holiest city in Islam, home to Al-Masjid An-Nabawi (the Prophet’s Mosque) and the Prophet Muhammad’s final resting place. A historical center of Islamic civilization.",
+    "vision2030": "Transformed into a spiritual and cultural destination with sustainable pilgrim infrastructure and smart city services.",
+    "coordinates": { "latitude": 24.5247, "longitude": 39.5692 },
+    "climate": { "summer": "35-45°C", "winter": "15-25°C", "best_time_to_visit": ["Winter", "Umrah seasons"] },
+    "notable_sites": [
+      {
+        "name": "Al-Masjid An-Nabawi",
+        "description": "One of the largest mosques in the world, housing the tomb of Prophet Muhammad (PBUH). A major site of Islamic pilgrimage and spirituality."
+      },
+      {
+        "name": "Quba Mosque",
+        "description": "The first mosque built in Islam by the Prophet Muhammad upon his arrival in Madinah."
+      }
+    ],
+    "activities": [
+      {
+        "type": "religious",
+        "name": "Pilgrimage and Ziyarah",
+        "description": "Visiting the Prophet’s Mosque and other sacred Islamic landmarks in the city."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Smart Pilgrimage Routes",
+        "description": "Digital wayfinding and crowd management systems to ease pilgrim movement."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "Royal Commission for AlUla & Madinah Region Development Authority",
+        "description": "Collaborating to protect historical sites and develop religious tourism."
+      }
+    ],
+    "outcomes": ["Spiritual enrichment", "Cultural heritage preservation", "Pilgrimage infrastructure innovation"],
+    "timeline": {
+      "ancient": "Yathrib (pre-Islamic name), thriving oasis town",
+      "prophetic_era": "Prophet Muhammad’s migration (Hijrah) to Madinah in 622 CE, forming the first Islamic state",
+      "modern": "Continual expansions of the Prophet’s Mosque and Vision 2030 developments"
+    },
+    "media": {
+      "videos": ["https://youtu.be/3cE4v8ewdnw?si=86u87vtfzkPF3w5M"]
+    }
+  },
+  {
+    "id": 34,
+    "type": "city",
+    "name": "Abha",
+    "description": "Mountainous city and capital of Asir region, known for its cool climate, scenic landscapes, and vibrant culture.",
+    "vision2030": "Developed as an eco-tourism and cultural destination in the southern highlands with smart infrastructure.",
+    "coordinates": { "latitude": 18.2164, "longitude": 42.5053 },
+    "climate": { 
+      "summer": "15-25°C", 
+      "winter": "5-15°C", 
+      "best_time_to_visit": ["Summer", "Spring"] 
+    },
+    "notable_sites": [
+      {
+        "name": "Al-Soudah Park",
+        "description": "High-altitude forest park with cable cars and panoramic views of the Asir Mountains."
+      },
+      {
+        "name": "Shada Palace",
+        "description": "Historic royal residence now serving as a museum of traditional Asiri life."
+      },
+      {
+        "name": "Abha Dam Lake",
+        "description": "Artificial lake with recreational facilities and scenic walking paths."
+      }
+    ],
+    "activities": [
+      {
+        "type": "festival",
+        "name": "Abha Summer Festival",
+        "description": "Cultural celebrations with music, art, food, and local crafts."
+      },
+      {
+        "type": "adventure",
+        "name": "Asir Hiking Trails",
+        "description": "Mountain treks and eco-adventures in the lush green Asir range."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Asir Green Zone",
+        "description": "Regional afforestation project promoting sustainable tourism and biodiversity."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "Asir Development Authority",
+        "description": "Leading regional transformation under Vision 2030’s tourism goals."
+      }
+    ],
+    "outcomes": [
+      "Increased domestic tourism", 
+      "Cultural preservation", 
+      "Eco-tourism growth"
+    ],
+    "timeline": {
+      "pre-modern": "Traditional trade and tribal center in the highlands",
+      "modern": "Transformed into a tourism hub under Vision 2030"
+    },
+    "media": {
+      "videos": ["https://youtu.be/Ljc3druBRb0?si=XfC0_Sfud6dqaS28",
+                 "https://youtu.be/FbO8SmWIQDA?si=-Y7m2tknWf9Fve1V"
+                   ]
+    }
+  },
+
+  {
+    "id": 35,
+    "type": "region",
+    "name": "Al-Qassim",
+    "description": "Agricultural heartland of Saudi Arabia, famous for its date production, heritage, and central location.",
+    "vision2030": "Positioned as a model region for sustainable agriculture, cultural tourism, and smart logistics.",
+    "coordinates": { "latitude": 26.2389, "longitude": 43.7713 },
+    "climate": { 
+      "summer": "30-45°C", 
+      "winter": "5-20°C", 
+      "best_time_to_visit": ["Autumn", "Winter"] 
+    },
+    "notable_sites": [
+      {
+        "name": "Uyun AlJiwa",
+        "description": "Historic oasis town mentioned in pre-Islamic poetry."
+      },
+      {
+        "name": "Al-Masmak Heritage Village (Buraidah)",
+        "description": "Traditional Najdi architecture and cultural exhibits."
+      },
+      {
+        "name": "Date Market in Buraidah",
+        "description": "One of the largest date markets in the world."
+      }
+    ],
+    "activities": [
+      {
+        "type": "festival",
+        "name": "Buraidah Date Festival",
+        "description": "Annual event celebrating local date varieties and agricultural heritage."
+      },
+      {
+        "type": "heritage_tour",
+        "name": "Najdi Architecture Trails",
+        "description": "Exploration of traditional mud-brick homes and cultural landmarks."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Smart Irrigation Projects",
+        "description": "Water-saving technologies for sustainable agriculture in arid environments."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "Qassim Chamber of Commerce",
+        "description": "Supports local SMEs and export of agricultural products."
+      }
+    ],
+    "outcomes": [
+      "Agricultural innovation",
+      "Heritage preservation",
+      "Rural tourism growth"
+    ],
+    "timeline": {
+      "pre-modern": "Home to ancient trade routes and oasis farming communities",
+      "modern": "Leading agricultural exporter and cultural destination under Vision 2030"
+    },
+    "media": {
+      "videos": ["https://youtu.be/-8B52iEOFh8?si=Lep_PIsqu34H5Axs"]
+    }
+  },
+
+  {
+    "id": 36,
+    "type": "region",
+    "name": "Tabuk",
+    "description": "Northwestern gateway of Saudi Arabia, known for its coastal beauty, desert landscapes, and snow-capped mountains.",
+    "vision2030": "Developed as a key tourism and ecological destination integrating Red Sea coastline, desert adventures, and winter retreats.",
+    "coordinates": { "latitude": 28.3838, "longitude": 36.5550 },
+    "climate": {
+      "summer": "25-40°C",
+      "winter": "0-15°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      {
+        "name": "Haql Beach",
+        "description": "Crystal-clear waters with a backdrop of Sinai mountains, ideal for snorkeling and relaxation."
+      },
+      {
+        "name": "Al-Zeitah Mountains",
+        "description": "High-altitude range that occasionally sees snowfall in winter, rare in the Arabian Peninsula."
+      },
+      {
+        "name": "Tayeb Al-Ism Valley",
+        "description": "Scenic wadi with towering cliffs and freshwater springs near the Red Sea."
+      }
+    ],
+    "activities": [
+      {
+        "type": "eco_tourism",
+        "name": "Snow Trekking",
+        "description": "Seasonal winter trips to snow-covered mountains like Jebel Al-Lawz."
+      },
+      {
+        "type": "marine",
+        "name": "Coral Coast Snorkeling",
+        "description": "Exploring vibrant coral reefs and marine life off the coast of Haql and Sharma."
+      },
+      {
+        "type": "desert_safari",
+        "name": "Wadi Al-Disah Adventures",
+        "description": "4x4 desert and canyon tours through red sandstone valleys and palm-lined wadis."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Red Sea Project",
+        "description": "Eco-luxury tourism development focused on protecting marine ecosystems and cultural sites."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "NEOM",
+        "description": "Futuristic city development near Tabuk emphasizing sustainability and innovation."
+      }
+    ],
+    "outcomes": [
+      "Tourism diversification",
+      "Conservation of Red Sea marine life",
+      "Economic growth through eco-resorts"
+    ],
+    "timeline": {
+      "ancient": "Historic route for trade and pilgrimage linking Arabia to the Levant",
+      "modern": "Emerging as a hub for international tourism and ecological preservation"
+    },
+    "media": {
+      "videos": ["https://youtu.be/xEWuEJViKec?si=tN9HN3qa8adNx0vw"]
+    }
+  },
+
+  {
+    "id": 37,
+    "type": "city",
+    "name": "Jubail Industrial City",
+    "description": "One of the world’s largest industrial cities, located on the eastern coast of Saudi Arabia, known for its petrochemical complexes and smart infrastructure.",
+    "vision2030": "A cornerstone of Saudi industrial diversification, emphasizing clean technologies and economic resilience.",
+    "coordinates": { "latitude": 27.0041, "longitude": 49.6576 },
+    "climate": {
+      "summer": "35-50°C",
+      "winter": "15-25°C",
+      "best_time_to_visit": ["Winter"]
+    },
+    "notable_sites": [
+      {
+        "name": "Royal Commission Headquarters",
+        "description": "Administrative center responsible for urban planning and environmental sustainability."
+      },
+      {
+        "name": "Jubail Industrial College",
+        "description": "Key institution for training engineers and technicians in industrial specializations."
+      }
+    ],
+    "activities": [
+      {
+        "type": "education",
+        "name": "Industrial Tours",
+        "description": "Guided visits to manufacturing plants and desalination facilities."
+      },
+      {
+        "type": "marine",
+        "name": "Jubail Corniche",
+        "description": "Popular coastal park with recreational areas and views of the Arabian Gulf."
+      }
+    ],
+    "sustainable_initiatives": [
+      {
+        "name": "Green Jubail Program",
+        "description": "Initiative to enhance green spaces, reduce emissions, and promote clean industrial practices."
+      }
+    ],
+    "partnerships": [
+      {
+        "name": "SABIC",
+        "description": "Global chemical manufacturing company headquartered in Jubail, contributing to innovation and sustainability."
+      }
+    ],
+    "outcomes": [
+      "Diversified industrial economy",
+      "High employment in engineering and tech sectors",
+      "Global leadership in petrochemicals"
+    ],
+    "timeline": {
+      "1975": "Foundation by Royal Commission for Jubail and Yanbu",
+      "2000s": "Expansion into smart city infrastructure and eco-industrial zones",
+      "Vision2030": "Model for clean, diversified industry and innovation hubs"
+    },
+    "media": {
+      "videos": ["https://youtu.be/VNVYBLIN60w?si=9gkm_ga1ZWsWbE_W"]
+    }
+  },
+
+  {
+    "id": 38,
+    "type": "natural_site",
+    "name": "Harrat Rahat",
+    "description": "The largest volcanic field in Saudi Arabia, located south of Madinah, featuring lava flows, craters, and dramatic geological formations.",
+    "vision2030": "Promoted as a geotourism destination and scientific research site under environmental conservation efforts.",
+    "coordinates": { "latitude": 24.4, "longitude": 39.7 },
+    "climate": {
+      "summer": "30-42°C",
+      "winter": "10-22°C",
+      "best_time_to_visit": ["Autumn", "Spring"]
+    },
+    "notable_sites": [
+      {
+        "name": "Jabal Abyad",
+        "description": "White volcano formed from light-colored trachyte lava, rare in the region."
+      },
+      {
+        "name": "Lava Tubes",
+        "description": "Underground tunnels formed by ancient lava flows, attracting hikers and scientists."
+      }
+    ],
+    "activities": [
+      {
+        "type": "hiking",
+        "name": "Volcanic Hike Trails",
+        "description": "Explore craters, basaltic flows, and unique desert flora."
+      },
+      {
+        "type": "geotourism",
+        "name": "Volcano Tours",
+        "description": "Educational trips guided by geologists on volcanic history."
+      }
+    ],
+    "sustainable_initiatives": [
+      "Environmental protection zoning",
+      "Partnerships with universities for monitoring volcanic activity"
+    ],
+    "partnerships": [
+      "Saudi Geological Survey",
+      "King Abdulaziz University Earth Sciences Dept."
+    ],
+    "outcomes": [
+      "Eco-tourism growth",
+      "Scientific research enhancement",
+      "Geological heritage preservation"
+    ],
+    "timeline": {
+      "development_start": "2022",
+      "expected_completion": "2026"
+    },
+    "media": {
+      "videos": ["https://youtu.be/lfxICmxQuOE?si=JVl_3cOUtGjE9pK_"]
+    }
+  },
+
+  {
+    "id": 39,
+    "type": "wildlife",
+    "name": "‘Uruq Bani Ma‘arid Protected Area",
+    "description": "A vast protected reserve on the western edge of the Empty Quarter, home to rare desert wildlife and diverse ecosystems.",
+    "vision2030": "Developed as a conservation and eco-tourism model preserving Saudi Arabia’s desert biodiversity.",
+    "coordinates": { "latitude": 19.2, "longitude": 45.5 },
+    "climate": {
+      "summer": "40-48°C",
+      "winter": "10-20°C",
+      "best_time_to_visit": ["Winter", "Spring"]
+    },
+    "notable_sites": [
+      {
+        "name": "Sand Dune Valleys",
+        "description": "Towering dunes with unique flora and fauna."
+      },
+      {
+        "name": "Oryx Reintroduction Zones",
+        "description": "Habitat for reintroduced Arabian oryx and gazelles."
+      }
+    ],
+    "activities": [
+      {
+        "type": "safari",
+        "name": "Desert Wildlife Tours",
+        "description": "Guided eco-safaris for wildlife observation and photography."
+      },
+      {
+        "type": "education",
+        "name": "Biodiversity Workshops",
+        "description": "Programs on desert ecology and conservation."
+      }
+    ],
+    "sustainable_initiatives": [
+      "Endangered species reintroduction",
+      "Anti-poaching programs",
+      "Ecosystem monitoring systems"
+    ],
+    "partnerships": [
+      "National Center for Wildlife",
+      "King Khalid Wildlife Research Center"
+    ],
+    "outcomes": [
+      "Revival of native species",
+      "Strengthened eco-tourism sector",
+      "Increased environmental awareness"
+    ],
+    "timeline": {
+      "protected_since": "1994",
+      "development_milestones": ["Species reintroduction (2000s)", "Tourism pilots (2020s)"]
+    },
+    "media": {
+      "videos": ["https://youtu.be/N6Cc7k55ODk?si=ezSzFHVxDKY3aWFA"]
+    }
+  },
+
+  {
+    "id": 40,
+    "type": "natural_site",
+    "name": "Rub' al Khali (The Empty Quarter)",
+    "description": "The largest continuous sand desert in the world, located in southeastern Saudi Arabia. Known for its vast dunes, extreme climate, and hidden geological wealth.",
+    "vision2030": "Utilized for geological research, eco-tourism, and desert exploration initiatives.",
+    "coordinates": { "latitude": 20.0, "longitude": 50.0 },
+    "climate": {
+      "summer": "45-55°C",
+      "winter": "8-20°C",
+      "best_time_to_visit": ["Winter", "Autumn"]
+    },
+    "notable_sites": [
+      { "name": "Shaybah Oil Field", "description": "One of Saudi Arabia’s major oil fields located deep within the desert." }
+    ],
+    "activities": [
+      {
+        "type": "adventure",
+        "name": "Dune Exploration & Camping",
+        "description": "Desert tours for adventure seekers and nature photographers."
+      },
+      {
+        "type": "scientific",
+        "name": "Geological Research Missions",
+        "description": "Academic and industrial studies to explore subsurface resources and desert ecology."
+      }
+    ],
+    "sustainable_initiatives": [
+      "Monitoring desert biodiversity",
+      "Climate impact studies"
+    ],
+    "partnerships": [
+      "Saudi Geological Survey",
+      "King Fahd University of Petroleum and Minerals (KFUPM)"
+    ],
+    "outcomes": [
+      "Updated geological mapping",
+      "Environmental data collection",
+      "Promotion of scientific tourism"
+    ],
+    "timeline": {
+      "start": "1950s",
+      "current": true
+    },
+    "media": {
+      "videos": ["https://youtu.be/_0d7WI25zD0?si=rvPylD2JoaKEdGOx"]
+    }
+  },
+  {
+    "id": 41,
+    "type": "historical_figure",
+    "name": "King Abdulaziz Al Saud",
+    "description": "Founder and first monarch of the modern Kingdom of Saudi Arabia, known for unifying the country and establishing its modern institutions.",
+    "role_in_unification": "Led the unification of disparate tribal regions into a centralized Islamic state in 1932, based on Islamic governance and tribal alliances.",
+    "birthplace": "Riyadh",
+    "era": "1876–1953",
+    "vision2030": "Honored through national museums, education curricula, cultural documentaries, and digital archiving to instill values of unity, leadership, and identity.",
+    "achievements": [
+      "Established Riyadh as the capital after recapturing it in 1902.",
+      "Unified Najd and Hijaz under one kingdom in 1932.",
+      "Created the Council of Ministers and modern governance systems.",
+      "Promoted Islamic solidarity and hosted global Muslim delegations.",
+      "Laid foundations for national security and oil-based economy."
+    ],
+    "religious_impact": "Affirmed Saudi Arabia's identity as an Islamic state and Custodian of the Two Holy Mosques.",
+    "international_relations": "Built diplomatic relations with major world powers and signed key oil agreements, including the 1933 concession to Standard Oil of California.",
+    "notable_sites": [
+      {
+        "name": "Al Masmak Fortress",
+        "description": "Site of King Abdulaziz’s historic recapture of Riyadh in 1902."
+      },
+      {
+        "name": "King Abdulaziz Historical Center",
+        "description": "Museum and cultural center in Riyadh documenting his legacy and the formation of Saudi Arabia."
+      }
+    ],
+    "media": {
+      "videos": ["https://youtu.be/tOUpcYkzcZY?si=mfQDf_u32bpXPk8B"]
+    }
+  },
+
+  {
+    "id": 42,
+    "type": "historical_figure",
+    "name": "Auda Abu Tayi",
+    "description": "A legendary warrior and tribal leader of the Howeitat tribe, known for his pivotal role during the Arab Revolt and military influence across northern Arabia.",
+    "role_in_unification": "While not directly involved in the unification of Saudi Arabia, his leadership in weakening Ottoman control in northern Arabia contributed to the eventual formation of modern Saudi Arabia.",
+    "birthplace": "Wadi Al-Sarhan, northern Arabian Peninsula",
+    "era": "1874 – 1924",
+    "vision2030": "Celebrated in cultural heritage narratives, especially in the northern regions, where he symbolizes tribal leadership and military resistance.",
+    "notable_sites": [
+      {
+        "name": "Wadi Al-Sarhan",
+        "description": "Strategic region where Auda Abu Tayi and the Howeitat tribe gained influence."
+      },
+      {
+        "name": "Northern Tabuk",
+        "description": "Region where Auda led significant campaigns against Ottoman forces."
+      }
+    ],
+    "achievements": [
+      "Led crucial battles during the Arab Revolt.",
+      "Formed alliances with Prince Faisal and T.E. Lawrence.",
+      "Symbolized tribal power and military resistance in northern Arabia."
+    ],
+    "media": {
+      "videos": ["https://youtu.be/hY8gjQ60LAM?si=NRbnBx0jH--Y_29l"]
+    }
+  },
+
+  {
+    "id": 45,
+    "type": "historical_figure",
+    "name": "Ghalia Al-Buqmiya",
+    "description": "A heroic woman from the Al-Buqm tribe who led resistance against Ottoman forces during the early 19th century, gaining respect as a military leader.",
+    "role_in_unification": "Symbol of early resistance and leadership, inspiring future movements that contributed to the unification of the Arabian Peninsula.",
+    "birthplace": "Al-Buqm Region, near Taif, Western Arabia",
+    "era": "Early 1800s",
+    "vision2030": "Recognized as a national symbol of courage and female leadership in historical archives and regional museums.",
+    "notable_sites": [
+      {
+        "name": "Al-Buqm (South of Taif)",
+        "description": "Ghalia’s tribal region and the site of her leadership during battles against Ottoman forces."
+      }
+    ],
+    "achievements": [
+      "Led and organized military resistance against the Ottomans.",
+      "Served as a symbol of bravery and tribal unity.",
+      "One of the most prominent female figures in Arabian history."
+    ],
+    "media": {
+      "videos": ["https://youtu.be/vMshkbuN4JM?si=TchpYU00KOkCzqsk"]
+    }
+  }
+]
