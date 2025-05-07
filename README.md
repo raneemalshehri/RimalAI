@@ -119,7 +119,7 @@ streamlit run app.py
 4. View detailed information in the sidebar
 
 ## Project Documentation
-1.Final Report: https://docs.google.com/document/d/1H3poO-x5R95OX4eIgNMHisZIbrbhAnOICd6I5mXzzuI/edit?usp=sharing
+1.Final Report: https://docs.google.com/document/d/1KPVlPrv1wuG5STKbaz0zNkiIdKR-QNR3_s-dfz0xbMo/edit?usp=sharing
 
 2.Project Presentation: https://www.canva.com/design/DAGmkTc4CWc/z2DzYUSV1_ppXePkEfnFFw/view?utm_content=DAGmkTc4CWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a718a4ad4
 
