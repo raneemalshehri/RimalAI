@@ -1,4 +1,5 @@
 import os
+import base64 
 import json
 import tempfile
 import streamlit as st
@@ -18,7 +19,7 @@ from langchain.tools import Tool
 from langchain_openai import ChatOpenAI
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
 # --- Streamlit App Configuration ---
@@ -492,13 +493,23 @@ def process_query(query, agent):
         
     except Exception as e:
         return f"Error processing query: {str(e)}"
+    
+    import base64
+    
+def load_css_with_background():
+    # Read SVG and convert to base64
+    with open("RimalAI.svg", "rb") as f:
+        b64_svg = base64.b64encode(f.read()).decode()
+    
+    # Read CSS and replace placeholder
+    with open("style.css", "r") as f:
+        css = f.read().replace("{{b64_svg}}", b64_svg)
+    
+    # Inject CSS
+    st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
 
-# --- CSS Styling ---
-def local_css(file_name):
-    with open(file_name) as f:
-        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
-local_css("style.css")  
+# Call this after imports
+load_css_with_background()
 
 # --- App Header ---
 st.title("🐪🏜️ RimalAI - Saudi Culture Assistant")
@@ -841,9 +852,9 @@ with st.sidebar:
 # --- Footer ---
 st.markdown("---")
 st.markdown("""
-    <div style='text-align:center;color:#666;font-size:0.9em;'>
+    <footer>
         © 2023 RimalAI | Powered by OpenAI and Mapbox
-    </div>
+    </footer>
 """, unsafe_allow_html=True)
 
 # Add this after the main content display

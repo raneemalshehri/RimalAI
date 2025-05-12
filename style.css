@@ -1,7 +1,17 @@
+/* Background image styling */
+.stApp {
+    background-image: url("data:image/svg+xml;base64,{{b64_svg}}");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 /* Main container styling */
 .main .block-container {
     padding-top: 2rem;
     padding-bottom: 2rem;
+    background-color: rgba(255, 255, 255, 0.8); /* Optional: add white overlay to improve text readability */
+    border-radius: 10px;
 }
 
 /* Header styling */
@@ -32,9 +42,15 @@ h1, h2, h3 {
     background-color: #F3F4F6;
 }
 
-/* Footer styling */
+/* Sticky footer */
 footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* optional: give it a background */
     text-align: center;
     padding: 1rem;
     color: #6B7280;
-} 
+    font-size: 0.9em;
+    box-shadow: 0 -1px 5px rgba(0,0,0,0.1); /* optional: small shadow */
+}
