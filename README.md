@@ -36,7 +36,7 @@ RimalAI is an innovative AI-powered application that serves as a comprehensive g
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/RimalAI.git
+git clone https://github.com/raneemalshehri/RimalAI.git
 cd RimalAI
 ```
 
